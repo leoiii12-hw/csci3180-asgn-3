@@ -27,7 +27,7 @@ sub set_players {
     }
 
     print("There $num_of_players players in the game:\n");
-    print("@player_names\n\n");
+    print("@player_names \n\n");
 
     return 1;
 }
@@ -116,7 +116,7 @@ sub start_game {
     $self->{"players"} = \@players;
     $self->{"cards"} = \@cards;
 
-    print("Game begin!!!\n\n");
+    print("Game begin!!!\n");
 
     # Game loop
     $self->loop();
@@ -131,28 +131,34 @@ sub loop() {
     my $number_of_players = @players;
 
     my $turn = 0;
-    my $turnPlayerIndex = 0;
+    my $turn_player_index = 0;
     while (1) {
         $turn = $turn + 1;
 
-        my $turnPlayer = $players[$turnPlayerIndex];
-        my $turnPlayerNumOfCards = $turnPlayer->get_num_of_cards();
+        my $turn_player = $players[$turn_player_index];
+        my $turn_player_name = $turn_player->get_name();
+        my $turn_player_num_of_cards = $turn_player->get_num_of_cards();
 
-        if ($turnPlayerNumOfCards > 0) {
-            $self->turn($turnPlayerIndex);
+        if ($turn_player_num_of_cards > 0) {
+            $self->turn($turn_player_index);
+
+            $turn_player_num_of_cards = $turn_player->get_num_of_cards();
+            if ($turn_player_num_of_cards == 0) {
+                print("Player $turn_player_name has no cards, out!\n");
+            }
+
+            if (my $win_player = $self->check_win()) {
+                my $win_player_name = $win_player->get_name();
+                my $game = int($turn / $number_of_players + 0.5);
+                print("\nWinner is $win_player_name in game $game\n");
+
+                return;
+            }
         }
 
-        if (my $win_player = $self->check_win()) {
-            my $win_player_name = $win_player->get_name();
-            my $game = int($turn / $number_of_players + 0.5);
-            print("Winner is $win_player_name in game $game\n");
-
-            return;
-        }
-
-        $turnPlayerIndex = $turnPlayerIndex + 1;
-        if ($turnPlayerIndex > $#player_names) {
-            $turnPlayerIndex = 0;
+        $turn_player_index = $turn_player_index + 1;
+        if ($turn_player_index > $#player_names) {
+            $turn_player_index = 0;
         }
     }
 }
@@ -164,11 +170,11 @@ sub turn() {
     my @players = @{$self->{"players"}};
     my @cards = @{$self->{"cards"}};
 
-    my $turnPlayer = $players[$turn];
-    my $turnPlayerName = $turnPlayer->get_name();
-    my $turnPlayerNumOfCards = $turnPlayer->get_num_of_cards();
+    my $turn_player = $players[$turn];
+    my $turn_player_name = $turn_player->get_name();
+    my $turn_player_num_of_cards = $turn_player->get_num_of_cards();
 
-    print("Player $turnPlayerName has $turnPlayerNumOfCards cards before deal.\n");
+    print("\nPlayer $turn_player_name has $turn_player_num_of_cards cards before deal.\n");
 
     print("=====Before player's deal=======\n");
 
@@ -176,8 +182,8 @@ sub turn() {
 
     print("================================\n");
 
-    my $dealed_card = $turnPlayer->deal_card();
-    print("$turnPlayerName ===> card $dealed_card\n");
+    my $dealed_card = $turn_player->deal_card();
+    print("$turn_player_name ==> card $dealed_card\n");
 
     print("=====After player's deal=======\n");
 
@@ -185,14 +191,14 @@ sub turn() {
     $self->{"cards"} = \@cards;
 
     my @returned_cards = @{$self->get_return($dealed_card)};
-    $turnPlayer->get_cards(\@returned_cards);
+    $turn_player->get_cards(\@returned_cards);
 
     $self->show_cards();
 
     print("================================\n");
 
-    $turnPlayerNumOfCards = $turnPlayer->get_num_of_cards();
-    print("Player $turnPlayerName has $turnPlayerNumOfCards cards after deal.\n\n");
+    $turn_player_num_of_cards = $turn_player->get_num_of_cards();
+    print("Player $turn_player_name has $turn_player_num_of_cards cards after deal.\n");
 }
 
 
@@ -203,21 +209,23 @@ sub check_win() {
 
     my $num_of_living_players = @players;
 
+    # Count living players
     for my $i (0 .. $#players) {
         my $player = $players[$i];
-        my $playerNumOfCards = $player->get_num_of_cards();
+        my $player_num_of_cards = $player->get_num_of_cards();
 
-        if ($playerNumOfCards == 0) {
+        if ($player_num_of_cards == 0) {
             $num_of_living_players = $num_of_living_players - 1;
         }
     }
 
+    # Get winner
     if ($num_of_living_players == 1) {
         for my $i (0 .. $#players) {
             my $player = $players[$i];
-            my $playerNumOfCards = $player->get_num_of_cards();
+            my $player_num_of_cards = $player->get_num_of_cards();
 
-            if ($playerNumOfCards > 0) {
+            if ($player_num_of_cards > 0) {
                 return $player;
             }
         }

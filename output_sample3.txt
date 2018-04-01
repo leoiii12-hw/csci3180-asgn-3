@@ -1,0 +1,7179 @@
+There 4 players in the game:
+lin liz wu wang 
+
+Game begin!!!
+
+Player lin has 13 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 4
+=====After player's deal=======
+4
+================================
+Player lin has 12 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+4
+================================
+liz ==> card 4
+=====After player's deal=======
+
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 13 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 2
+=====After player's deal=======
+2
+================================
+Player wu has 12 cards after deal.
+
+Player wang has 13 cards before deal.
+=====Before player's deal=======
+2
+================================
+wang ==> card 2
+=====After player's deal=======
+
+================================
+Player wang has 14 cards after deal.
+
+Player lin has 12 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 6
+=====After player's deal=======
+6
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+6
+================================
+liz ==> card 6
+=====After player's deal=======
+
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 12 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 3
+=====After player's deal=======
+3
+================================
+Player wu has 11 cards after deal.
+
+Player wang has 14 cards before deal.
+=====Before player's deal=======
+3
+================================
+wang ==> card 7
+=====After player's deal=======
+3 7
+================================
+Player wang has 13 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+3 7
+================================
+lin ==> card 8
+=====After player's deal=======
+3 7 8
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+3 7 8
+================================
+liz ==> card 8
+=====After player's deal=======
+3 7
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 11 cards before deal.
+=====Before player's deal=======
+3 7
+================================
+wu ==> card 9
+=====After player's deal=======
+3 7 9
+================================
+Player wu has 10 cards after deal.
+
+Player wang has 13 cards before deal.
+=====Before player's deal=======
+3 7 9
+================================
+wang ==> card 4
+=====After player's deal=======
+3 7 9 4
+================================
+Player wang has 12 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+3 7 9 4
+================================
+lin ==> card 10
+=====After player's deal=======
+3 7 9 4 10
+================================
+Player lin has 9 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+3 7 9 4 10
+================================
+liz ==> card 10
+=====After player's deal=======
+3 7 9 4
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 10 cards before deal.
+=====Before player's deal=======
+3 7 9 4
+================================
+wu ==> card 5
+=====After player's deal=======
+3 7 9 4 5
+================================
+Player wu has 9 cards after deal.
+
+Player wang has 12 cards before deal.
+=====Before player's deal=======
+3 7 9 4 5
+================================
+wang ==> card 10
+=====After player's deal=======
+3 7 9 4 5 10
+================================
+Player wang has 11 cards after deal.
+
+Player lin has 9 cards before deal.
+=====Before player's deal=======
+3 7 9 4 5 10
+================================
+lin ==> card Q
+=====After player's deal=======
+3 7 9 4 5 10 Q
+================================
+Player lin has 8 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+3 7 9 4 5 10 Q
+================================
+liz ==> card Q
+=====After player's deal=======
+3 7 9 4 5 10
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 9 cards before deal.
+=====Before player's deal=======
+3 7 9 4 5 10
+================================
+wu ==> card 4
+=====After player's deal=======
+3 7 9
+================================
+Player wu has 12 cards after deal.
+
+Player wang has 11 cards before deal.
+=====Before player's deal=======
+3 7 9
+================================
+wang ==> card 6
+=====After player's deal=======
+3 7 9 6
+================================
+Player wang has 10 cards after deal.
+
+Player lin has 8 cards before deal.
+=====Before player's deal=======
+3 7 9 6
+================================
+lin ==> card A
+=====After player's deal=======
+3 7 9 6 A
+================================
+Player lin has 7 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+3 7 9 6 A
+================================
+liz ==> card A
+=====After player's deal=======
+3 7 9 6
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 12 cards before deal.
+=====Before player's deal=======
+3 7 9 6
+================================
+wu ==> card 7
+=====After player's deal=======
+3
+================================
+Player wu has 15 cards after deal.
+
+Player wang has 10 cards before deal.
+=====Before player's deal=======
+3
+================================
+wang ==> card K
+=====After player's deal=======
+3 K
+================================
+Player wang has 9 cards after deal.
+
+Player lin has 7 cards before deal.
+=====Before player's deal=======
+3 K
+================================
+lin ==> card 3
+=====After player's deal=======
+
+================================
+Player lin has 9 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 3
+=====After player's deal=======
+3
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 15 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card 3
+=====After player's deal=======
+
+================================
+Player wu has 16 cards after deal.
+
+Player wang has 9 cards before deal.
+=====Before player's deal=======
+
+================================
+wang ==> card 8
+=====After player's deal=======
+8
+================================
+Player wang has 8 cards after deal.
+
+Player lin has 9 cards before deal.
+=====Before player's deal=======
+8
+================================
+lin ==> card 5
+=====After player's deal=======
+8 5
+================================
+Player lin has 8 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+8 5
+================================
+liz ==> card 5
+=====After player's deal=======
+8
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 16 cards before deal.
+=====Before player's deal=======
+8
+================================
+wu ==> card 9
+=====After player's deal=======
+8 9
+================================
+Player wu has 15 cards after deal.
+
+Player wang has 8 cards before deal.
+=====Before player's deal=======
+8 9
+================================
+wang ==> card Q
+=====After player's deal=======
+8 9 Q
+================================
+Player wang has 7 cards after deal.
+
+Player lin has 8 cards before deal.
+=====Before player's deal=======
+8 9 Q
+================================
+lin ==> card 7
+=====After player's deal=======
+8 9 Q 7
+================================
+Player lin has 7 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+8 9 Q 7
+================================
+liz ==> card 7
+=====After player's deal=======
+8 9 Q
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 15 cards before deal.
+=====Before player's deal=======
+8 9 Q
+================================
+wu ==> card 6
+=====After player's deal=======
+8 9 Q 6
+================================
+Player wu has 14 cards after deal.
+
+Player wang has 7 cards before deal.
+=====Before player's deal=======
+8 9 Q 6
+================================
+wang ==> card 10
+=====After player's deal=======
+8 9 Q 6 10
+================================
+Player wang has 6 cards after deal.
+
+Player lin has 7 cards before deal.
+=====Before player's deal=======
+8 9 Q 6 10
+================================
+lin ==> card 9
+=====After player's deal=======
+8
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+8
+================================
+liz ==> card 9
+=====After player's deal=======
+8 9
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 14 cards before deal.
+=====Before player's deal=======
+8 9
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 16 cards after deal.
+
+Player wang has 6 cards before deal.
+=====Before player's deal=======
+
+================================
+wang ==> card 5
+=====After player's deal=======
+5
+================================
+Player wang has 5 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+5
+================================
+lin ==> card J
+=====After player's deal=======
+
+================================
+Player lin has 12 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card J
+=====After player's deal=======
+J
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 16 cards before deal.
+=====Before player's deal=======
+J
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 17 cards after deal.
+
+Player wang has 5 cards before deal.
+=====Before player's deal=======
+
+================================
+wang ==> card Q
+=====After player's deal=======
+Q
+================================
+Player wang has 4 cards after deal.
+
+Player lin has 12 cards before deal.
+=====Before player's deal=======
+Q
+================================
+lin ==> card K
+=====After player's deal=======
+Q K
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+Q K
+================================
+liz ==> card K
+=====After player's deal=======
+Q
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 17 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wu ==> card K
+=====After player's deal=======
+Q K
+================================
+Player wu has 16 cards after deal.
+
+Player wang has 4 cards before deal.
+=====Before player's deal=======
+Q K
+================================
+wang ==> card A
+=====After player's deal=======
+Q K A
+================================
+Player wang has 3 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+Q K A
+================================
+lin ==> card 2
+=====After player's deal=======
+Q K A 2
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+Q K A 2
+================================
+liz ==> card 2
+=====After player's deal=======
+Q K A
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 16 cards before deal.
+=====Before player's deal=======
+Q K A
+================================
+wu ==> card 8
+=====After player's deal=======
+Q K A 8
+================================
+Player wu has 15 cards after deal.
+
+Player wang has 3 cards before deal.
+=====Before player's deal=======
+Q K A 8
+================================
+wang ==> card A
+=====After player's deal=======
+Q K
+================================
+Player wang has 5 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+Q K
+================================
+lin ==> card 3
+=====After player's deal=======
+Q K 3
+================================
+Player lin has 9 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+Q K 3
+================================
+liz ==> card 4
+=====After player's deal=======
+Q K 3 4
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 15 cards before deal.
+=====Before player's deal=======
+Q K 3 4
+================================
+wu ==> card 4
+=====After player's deal=======
+Q K 3
+================================
+Player wu has 16 cards after deal.
+
+Player wang has 5 cards before deal.
+=====Before player's deal=======
+Q K 3
+================================
+wang ==> card 2
+=====After player's deal=======
+Q K 3 2
+================================
+Player wang has 4 cards after deal.
+
+Player lin has 9 cards before deal.
+=====Before player's deal=======
+Q K 3 2
+================================
+lin ==> card K
+=====After player's deal=======
+Q
+================================
+Player lin has 12 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+Q
+================================
+liz ==> card 4
+=====After player's deal=======
+Q 4
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 16 cards before deal.
+=====Before player's deal=======
+Q 4
+================================
+wu ==> card 10
+=====After player's deal=======
+Q 4 10
+================================
+Player wu has 15 cards after deal.
+
+Player wang has 4 cards before deal.
+=====Before player's deal=======
+Q 4 10
+================================
+wang ==> card 2
+=====After player's deal=======
+Q 4 10 2
+================================
+Player wang has 3 cards after deal.
+
+Player lin has 12 cards before deal.
+=====Before player's deal=======
+Q 4 10 2
+================================
+lin ==> card 3
+=====After player's deal=======
+Q 4 10 2 3
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+Q 4 10 2 3
+================================
+liz ==> card 6
+=====After player's deal=======
+Q 4 10 2 3 6
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 15 cards before deal.
+=====Before player's deal=======
+Q 4 10 2 3 6
+================================
+wu ==> card 5
+=====After player's deal=======
+Q 4 10 2 3 6 5
+================================
+Player wu has 14 cards after deal.
+
+Player wang has 3 cards before deal.
+=====Before player's deal=======
+Q 4 10 2 3 6 5
+================================
+wang ==> card A
+=====After player's deal=======
+Q 4 10 2 3 6 5 A
+================================
+Player wang has 2 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+Q 4 10 2 3 6 5 A
+================================
+lin ==> card 9
+=====After player's deal=======
+Q 4 10 2 3 6 5 A 9
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+Q 4 10 2 3 6 5 A 9
+================================
+liz ==> card 6
+=====After player's deal=======
+Q 4 10 2 3
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 14 cards before deal.
+=====Before player's deal=======
+Q 4 10 2 3
+================================
+wu ==> card 4
+=====After player's deal=======
+Q
+================================
+Player wu has 18 cards after deal.
+
+Player wang has 2 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wang ==> card 8
+=====After player's deal=======
+Q 8
+================================
+Player wang has 1 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+Q 8
+================================
+lin ==> card 10
+=====After player's deal=======
+Q 8 10
+================================
+Player lin has 9 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+Q 8 10
+================================
+liz ==> card 8
+=====After player's deal=======
+Q
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 18 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wu ==> card 7
+=====After player's deal=======
+Q 7
+================================
+Player wu has 17 cards after deal.
+
+Player wang has 1 cards before deal.
+=====Before player's deal=======
+Q 7
+================================
+wang ==> card A
+=====After player's deal=======
+Q 7 A
+================================
+Player wang has 0 cards after deal.
+Player wang has no cards, out!
+
+Player lin has 9 cards before deal.
+=====Before player's deal=======
+Q 7 A
+================================
+lin ==> card 6
+=====After player's deal=======
+Q 7 A 6
+================================
+Player lin has 8 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+Q 7 A 6
+================================
+liz ==> card 8
+=====After player's deal=======
+Q 7 A 6 8
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 17 cards before deal.
+=====Before player's deal=======
+Q 7 A 6 8
+================================
+wu ==> card 6
+=====After player's deal=======
+Q 7 A
+================================
+Player wu has 19 cards after deal.
+
+Player lin has 8 cards before deal.
+=====Before player's deal=======
+Q 7 A
+================================
+lin ==> card Q
+=====After player's deal=======
+
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 10
+=====After player's deal=======
+10
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 19 cards before deal.
+=====Before player's deal=======
+10
+================================
+wu ==> card 9
+=====After player's deal=======
+10 9
+================================
+Player wu has 18 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+10 9
+================================
+lin ==> card 9
+=====After player's deal=======
+10
+================================
+Player lin has 12 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+10
+================================
+liz ==> card 10
+=====After player's deal=======
+
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 18 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 7
+=====After player's deal=======
+7
+================================
+Player wu has 17 cards after deal.
+
+Player lin has 12 cards before deal.
+=====Before player's deal=======
+7
+================================
+lin ==> card J
+=====After player's deal=======
+
+================================
+Player lin has 13 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card Q
+=====After player's deal=======
+Q
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 17 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wu ==> card 3
+=====After player's deal=======
+Q 3
+================================
+Player wu has 16 cards after deal.
+
+Player lin has 13 cards before deal.
+=====Before player's deal=======
+Q 3
+================================
+lin ==> card 5
+=====After player's deal=======
+Q 3 5
+================================
+Player lin has 12 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+Q 3 5
+================================
+liz ==> card Q
+=====After player's deal=======
+
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 16 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 3
+=====After player's deal=======
+3
+================================
+Player wu has 15 cards after deal.
+
+Player lin has 12 cards before deal.
+=====Before player's deal=======
+3
+================================
+lin ==> card K
+=====After player's deal=======
+3 K
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+3 K
+================================
+liz ==> card A
+=====After player's deal=======
+3 K A
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 15 cards before deal.
+=====Before player's deal=======
+3 K A
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 18 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 2
+=====After player's deal=======
+2
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+2
+================================
+liz ==> card A
+=====After player's deal=======
+2 A
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 18 cards before deal.
+=====Before player's deal=======
+2 A
+================================
+wu ==> card 9
+=====After player's deal=======
+2 A 9
+================================
+Player wu has 17 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+2 A 9
+================================
+lin ==> card 3
+=====After player's deal=======
+2 A 9 3
+================================
+Player lin has 9 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+2 A 9 3
+================================
+liz ==> card 5
+=====After player's deal=======
+2 A 9 3 5
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 17 cards before deal.
+=====Before player's deal=======
+2 A 9 3 5
+================================
+wu ==> card 8
+=====After player's deal=======
+2 A 9 3 5 8
+================================
+Player wu has 16 cards after deal.
+
+Player lin has 9 cards before deal.
+=====Before player's deal=======
+2 A 9 3 5 8
+================================
+lin ==> card K
+=====After player's deal=======
+2 A 9 3 5 8 K
+================================
+Player lin has 8 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+2 A 9 3 5 8 K
+================================
+liz ==> card 5
+=====After player's deal=======
+2 A 9 3
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 16 cards before deal.
+=====Before player's deal=======
+2 A 9 3
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 8 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card Q
+=====After player's deal=======
+Q
+================================
+Player lin has 7 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+Q
+================================
+liz ==> card 7
+=====After player's deal=======
+Q 7
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+Q 7
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 22 cards after deal.
+
+Player lin has 7 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card A
+=====After player's deal=======
+A
+================================
+Player lin has 6 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+A
+================================
+liz ==> card 7
+=====After player's deal=======
+A 7
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 22 cards before deal.
+=====Before player's deal=======
+A 7
+================================
+wu ==> card 4
+=====After player's deal=======
+A 7 4
+================================
+Player wu has 21 cards after deal.
+
+Player lin has 6 cards before deal.
+=====Before player's deal=======
+A 7 4
+================================
+lin ==> card 7
+=====After player's deal=======
+A
+================================
+Player lin has 8 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+A
+================================
+liz ==> card K
+=====After player's deal=======
+A K
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 21 cards before deal.
+=====Before player's deal=======
+A K
+================================
+wu ==> card 4
+=====After player's deal=======
+A K 4
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 8 cards before deal.
+=====Before player's deal=======
+A K 4
+================================
+lin ==> card Q
+=====After player's deal=======
+A K 4 Q
+================================
+Player lin has 7 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+A K 4 Q
+================================
+liz ==> card K
+=====After player's deal=======
+A
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+A
+================================
+wu ==> card 4
+=====After player's deal=======
+A 4
+================================
+Player wu has 19 cards after deal.
+
+Player lin has 7 cards before deal.
+=====Before player's deal=======
+A 4
+================================
+lin ==> card 9
+=====After player's deal=======
+A 4 9
+================================
+Player lin has 6 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+A 4 9
+================================
+liz ==> card 2
+=====After player's deal=======
+A 4 9 2
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 19 cards before deal.
+=====Before player's deal=======
+A 4 9 2
+================================
+wu ==> card 3
+=====After player's deal=======
+A 4 9 2 3
+================================
+Player wu has 18 cards after deal.
+
+Player lin has 6 cards before deal.
+=====Before player's deal=======
+A 4 9 2 3
+================================
+lin ==> card 9
+=====After player's deal=======
+A 4
+================================
+Player lin has 9 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+A 4
+================================
+liz ==> card 2
+=====After player's deal=======
+A 4 2
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 18 cards before deal.
+=====Before player's deal=======
+A 4 2
+================================
+wu ==> card 2
+=====After player's deal=======
+A 4
+================================
+Player wu has 19 cards after deal.
+
+Player lin has 9 cards before deal.
+=====Before player's deal=======
+A 4
+================================
+lin ==> card J
+=====After player's deal=======
+
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 6
+=====After player's deal=======
+6
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 19 cards before deal.
+=====Before player's deal=======
+6
+================================
+wu ==> card 10
+=====After player's deal=======
+6 10
+================================
+Player wu has 18 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+6 10
+================================
+lin ==> card 7
+=====After player's deal=======
+6 10 7
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+6 10 7
+================================
+liz ==> card 9
+=====After player's deal=======
+6 10 7 9
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 18 cards before deal.
+=====Before player's deal=======
+6 10 7 9
+================================
+wu ==> card 4
+=====After player's deal=======
+6 10 7 9 4
+================================
+Player wu has 17 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+6 10 7 9 4
+================================
+lin ==> card 7
+=====After player's deal=======
+6 10
+================================
+Player lin has 13 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+6 10
+================================
+liz ==> card A
+=====After player's deal=======
+6 10 A
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 17 cards before deal.
+=====Before player's deal=======
+6 10 A
+================================
+wu ==> card 6
+=====After player's deal=======
+
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 13 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 4
+=====After player's deal=======
+4
+================================
+Player lin has 12 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+4
+================================
+liz ==> card 5
+=====After player's deal=======
+4 5
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+4 5
+================================
+wu ==> card 8
+=====After player's deal=======
+4 5 8
+================================
+Player wu has 19 cards after deal.
+
+Player lin has 12 cards before deal.
+=====Before player's deal=======
+4 5 8
+================================
+lin ==> card 7
+=====After player's deal=======
+4 5 8 7
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+4 5 8 7
+================================
+liz ==> card 6
+=====After player's deal=======
+4 5 8 7 6
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 19 cards before deal.
+=====Before player's deal=======
+4 5 8 7 6
+================================
+wu ==> card 6
+=====After player's deal=======
+4 5 8 7
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+4 5 8 7
+================================
+lin ==> card 9
+=====After player's deal=======
+4 5 8 7 9
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+4 5 8 7 9
+================================
+liz ==> card 8
+=====After player's deal=======
+4 5
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+4 5
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 22 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 3
+=====After player's deal=======
+3
+================================
+Player lin has 9 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+3
+================================
+liz ==> card 10
+=====After player's deal=======
+3 10
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 22 cards before deal.
+=====Before player's deal=======
+3 10
+================================
+wu ==> card A
+=====After player's deal=======
+3 10 A
+================================
+Player wu has 21 cards after deal.
+
+Player lin has 9 cards before deal.
+=====Before player's deal=======
+3 10 A
+================================
+lin ==> card 2
+=====After player's deal=======
+3 10 A 2
+================================
+Player lin has 8 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+3 10 A 2
+================================
+liz ==> card 8
+=====After player's deal=======
+3 10 A 2 8
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 21 cards before deal.
+=====Before player's deal=======
+3 10 A 2 8
+================================
+wu ==> card K
+=====After player's deal=======
+3 10 A 2 8 K
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 8 cards before deal.
+=====Before player's deal=======
+3 10 A 2 8 K
+================================
+lin ==> card 9
+=====After player's deal=======
+3 10 A 2 8 K 9
+================================
+Player lin has 7 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+3 10 A 2 8 K 9
+================================
+liz ==> card 10
+=====After player's deal=======
+3
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card 3
+=====After player's deal=======
+
+================================
+Player wu has 21 cards after deal.
+
+Player lin has 7 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card J
+=====After player's deal=======
+J
+================================
+Player lin has 6 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+J
+================================
+liz ==> card 10
+=====After player's deal=======
+J 10
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 21 cards before deal.
+=====Before player's deal=======
+J 10
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 23 cards after deal.
+
+Player lin has 6 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 4
+=====After player's deal=======
+4
+================================
+Player lin has 5 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+4
+================================
+liz ==> card Q
+=====After player's deal=======
+4 Q
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 23 cards before deal.
+=====Before player's deal=======
+4 Q
+================================
+wu ==> card 3
+=====After player's deal=======
+4 Q 3
+================================
+Player wu has 22 cards after deal.
+
+Player lin has 5 cards before deal.
+=====Before player's deal=======
+4 Q 3
+================================
+lin ==> card A
+=====After player's deal=======
+4 Q 3 A
+================================
+Player lin has 4 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+4 Q 3 A
+================================
+liz ==> card 5
+=====After player's deal=======
+4 Q 3 A 5
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 22 cards before deal.
+=====Before player's deal=======
+4 Q 3 A 5
+================================
+wu ==> card 9
+=====After player's deal=======
+4 Q 3 A 5 9
+================================
+Player wu has 21 cards after deal.
+
+Player lin has 4 cards before deal.
+=====Before player's deal=======
+4 Q 3 A 5 9
+================================
+lin ==> card 7
+=====After player's deal=======
+4 Q 3 A 5 9 7
+================================
+Player lin has 3 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+4 Q 3 A 5 9 7
+================================
+liz ==> card 3
+=====After player's deal=======
+4 Q
+================================
+Player liz has 26 cards after deal.
+
+Player wu has 21 cards before deal.
+=====Before player's deal=======
+4 Q
+================================
+wu ==> card A
+=====After player's deal=======
+4 Q A
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 3 cards before deal.
+=====Before player's deal=======
+4 Q A
+================================
+lin ==> card 4
+=====After player's deal=======
+
+================================
+Player lin has 6 cards after deal.
+
+Player liz has 26 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card Q
+=====After player's deal=======
+Q
+================================
+Player liz has 25 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wu ==> card 2
+=====After player's deal=======
+Q 2
+================================
+Player wu has 19 cards after deal.
+
+Player lin has 6 cards before deal.
+=====Before player's deal=======
+Q 2
+================================
+lin ==> card 9
+=====After player's deal=======
+Q 2 9
+================================
+Player lin has 5 cards after deal.
+
+Player liz has 25 cards before deal.
+=====Before player's deal=======
+Q 2 9
+================================
+liz ==> card 5
+=====After player's deal=======
+Q 2 9 5
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 19 cards before deal.
+=====Before player's deal=======
+Q 2 9 5
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 23 cards after deal.
+
+Player lin has 5 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 7
+=====After player's deal=======
+7
+================================
+Player lin has 4 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+7
+================================
+liz ==> card K
+=====After player's deal=======
+7 K
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 23 cards before deal.
+=====Before player's deal=======
+7 K
+================================
+wu ==> card 7
+=====After player's deal=======
+
+================================
+Player wu has 25 cards after deal.
+
+Player lin has 4 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 4
+=====After player's deal=======
+4
+================================
+Player lin has 3 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+4
+================================
+liz ==> card 8
+=====After player's deal=======
+4 8
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 25 cards before deal.
+=====Before player's deal=======
+4 8
+================================
+wu ==> card Q
+=====After player's deal=======
+4 8 Q
+================================
+Player wu has 24 cards after deal.
+
+Player lin has 3 cards before deal.
+=====Before player's deal=======
+4 8 Q
+================================
+lin ==> card A
+=====After player's deal=======
+4 8 Q A
+================================
+Player lin has 2 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+4 8 Q A
+================================
+liz ==> card 5
+=====After player's deal=======
+4 8 Q A 5
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 24 cards before deal.
+=====Before player's deal=======
+4 8 Q A 5
+================================
+wu ==> card 2
+=====After player's deal=======
+4 8 Q A 5 2
+================================
+Player wu has 23 cards after deal.
+
+Player lin has 2 cards before deal.
+=====Before player's deal=======
+4 8 Q A 5 2
+================================
+lin ==> card Q
+=====After player's deal=======
+4 8
+================================
+Player lin has 6 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+4 8
+================================
+liz ==> card K
+=====After player's deal=======
+4 8 K
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 23 cards before deal.
+=====Before player's deal=======
+4 8 K
+================================
+wu ==> card 2
+=====After player's deal=======
+4 8 K 2
+================================
+Player wu has 22 cards after deal.
+
+Player lin has 6 cards before deal.
+=====Before player's deal=======
+4 8 K 2
+================================
+lin ==> card 4
+=====After player's deal=======
+
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card Q
+=====After player's deal=======
+Q
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 22 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wu ==> card 6
+=====After player's deal=======
+Q 6
+================================
+Player wu has 21 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+Q 6
+================================
+lin ==> card Q
+=====After player's deal=======
+
+================================
+Player lin has 12 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 21 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card A
+=====After player's deal=======
+4 A
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 12 cards before deal.
+=====Before player's deal=======
+4 A
+================================
+lin ==> card 2
+=====After player's deal=======
+4 A 2
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+4 A 2
+================================
+liz ==> card K
+=====After player's deal=======
+4 A 2 K
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+4 A 2 K
+================================
+wu ==> card 10
+=====After player's deal=======
+4 A 2 K 10
+================================
+Player wu has 19 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+4 A 2 K 10
+================================
+lin ==> card 5
+=====After player's deal=======
+4 A 2 K 10 5
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+4 A 2 K 10 5
+================================
+liz ==> card 8
+=====After player's deal=======
+4 A 2 K 10 5 8
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 19 cards before deal.
+=====Before player's deal=======
+4 A 2 K 10 5 8
+================================
+wu ==> card 6
+=====After player's deal=======
+4 A 2 K 10 5 8 6
+================================
+Player wu has 18 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+4 A 2 K 10 5 8 6
+================================
+lin ==> card A
+=====After player's deal=======
+4
+================================
+Player lin has 17 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+4
+================================
+liz ==> card 9
+=====After player's deal=======
+4 9
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 18 cards before deal.
+=====Before player's deal=======
+4 9
+================================
+wu ==> card 6
+=====After player's deal=======
+4 9 6
+================================
+Player wu has 17 cards after deal.
+
+Player lin has 17 cards before deal.
+=====Before player's deal=======
+4 9 6
+================================
+lin ==> card Q
+=====After player's deal=======
+4 9 6 Q
+================================
+Player lin has 16 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+4 9 6 Q
+================================
+liz ==> card 7
+=====After player's deal=======
+4 9 6 Q 7
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 17 cards before deal.
+=====Before player's deal=======
+4 9 6 Q 7
+================================
+wu ==> card 6
+=====After player's deal=======
+4 9
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 16 cards before deal.
+=====Before player's deal=======
+4 9
+================================
+lin ==> card 4
+=====After player's deal=======
+
+================================
+Player lin has 18 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 8
+=====After player's deal=======
+8
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+8
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 21 cards after deal.
+
+Player lin has 18 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 2
+=====After player's deal=======
+2
+================================
+Player lin has 17 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+2
+================================
+liz ==> card 10
+=====After player's deal=======
+2 10
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 21 cards before deal.
+=====Before player's deal=======
+2 10
+================================
+wu ==> card 5
+=====After player's deal=======
+2 10 5
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 17 cards before deal.
+=====Before player's deal=======
+2 10 5
+================================
+lin ==> card K
+=====After player's deal=======
+2 10 5 K
+================================
+Player lin has 16 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+2 10 5 K
+================================
+liz ==> card 9
+=====After player's deal=======
+2 10 5 K 9
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+2 10 5 K 9
+================================
+wu ==> card 4
+=====After player's deal=======
+2 10 5 K 9 4
+================================
+Player wu has 19 cards after deal.
+
+Player lin has 16 cards before deal.
+=====Before player's deal=======
+2 10 5 K 9 4
+================================
+lin ==> card 8
+=====After player's deal=======
+2 10 5 K 9 4 8
+================================
+Player lin has 15 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+2 10 5 K 9 4 8
+================================
+liz ==> card K
+=====After player's deal=======
+2 10 5
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 19 cards before deal.
+=====Before player's deal=======
+2 10 5
+================================
+wu ==> card 3
+=====After player's deal=======
+2 10 5 3
+================================
+Player wu has 18 cards after deal.
+
+Player lin has 15 cards before deal.
+=====Before player's deal=======
+2 10 5 3
+================================
+lin ==> card 4
+=====After player's deal=======
+2 10 5 3 4
+================================
+Player lin has 14 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+2 10 5 3 4
+================================
+liz ==> card 8
+=====After player's deal=======
+2 10 5 3 4 8
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 18 cards before deal.
+=====Before player's deal=======
+2 10 5 3 4 8
+================================
+wu ==> card 3
+=====After player's deal=======
+2 10 5
+================================
+Player wu has 21 cards after deal.
+
+Player lin has 14 cards before deal.
+=====Before player's deal=======
+2 10 5
+================================
+lin ==> card Q
+=====After player's deal=======
+2 10 5 Q
+================================
+Player lin has 13 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+2 10 5 Q
+================================
+liz ==> card 2
+=====After player's deal=======
+
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 21 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card J
+=====After player's deal=======
+J
+================================
+Player wu has 20 cards after deal.
+
+Player lin has 13 cards before deal.
+=====Before player's deal=======
+J
+================================
+lin ==> card 6
+=====After player's deal=======
+J 6
+================================
+Player lin has 12 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+J 6
+================================
+liz ==> card A
+=====After player's deal=======
+J 6 A
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+J 6 A
+================================
+wu ==> card 10
+=====After player's deal=======
+J 6 A 10
+================================
+Player wu has 19 cards after deal.
+
+Player lin has 12 cards before deal.
+=====Before player's deal=======
+J 6 A 10
+================================
+lin ==> card Q
+=====After player's deal=======
+J 6 A 10 Q
+================================
+Player lin has 11 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+J 6 A 10 Q
+================================
+liz ==> card 10
+=====After player's deal=======
+J 6 A
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 19 cards before deal.
+=====Before player's deal=======
+J 6 A
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 22 cards after deal.
+
+Player lin has 11 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card A
+=====After player's deal=======
+A
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+A
+================================
+liz ==> card 3
+=====After player's deal=======
+A 3
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 22 cards before deal.
+=====Before player's deal=======
+A 3
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 24 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 6
+=====After player's deal=======
+6
+================================
+Player lin has 9 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+6
+================================
+liz ==> card 7
+=====After player's deal=======
+6 7
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 24 cards before deal.
+=====Before player's deal=======
+6 7
+================================
+wu ==> card 5
+=====After player's deal=======
+6 7 5
+================================
+Player wu has 23 cards after deal.
+
+Player lin has 9 cards before deal.
+=====Before player's deal=======
+6 7 5
+================================
+lin ==> card 8
+=====After player's deal=======
+6 7 5 8
+================================
+Player lin has 8 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+6 7 5 8
+================================
+liz ==> card 9
+=====After player's deal=======
+6 7 5 8 9
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 23 cards before deal.
+=====Before player's deal=======
+6 7 5 8 9
+================================
+wu ==> card 9
+=====After player's deal=======
+6 7 5 8
+================================
+Player wu has 24 cards after deal.
+
+Player lin has 8 cards before deal.
+=====Before player's deal=======
+6 7 5 8
+================================
+lin ==> card 5
+=====After player's deal=======
+6 7
+================================
+Player lin has 10 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+6 7
+================================
+liz ==> card 5
+=====After player's deal=======
+6 7 5
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 24 cards before deal.
+=====Before player's deal=======
+6 7 5
+================================
+wu ==> card 2
+=====After player's deal=======
+6 7 5 2
+================================
+Player wu has 23 cards after deal.
+
+Player lin has 10 cards before deal.
+=====Before player's deal=======
+6 7 5 2
+================================
+lin ==> card 10
+=====After player's deal=======
+6 7 5 2 10
+================================
+Player lin has 9 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+6 7 5 2 10
+================================
+liz ==> card A
+=====After player's deal=======
+6 7 5 2 10 A
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 23 cards before deal.
+=====Before player's deal=======
+6 7 5 2 10 A
+================================
+wu ==> card Q
+=====After player's deal=======
+6 7 5 2 10 A Q
+================================
+Player wu has 22 cards after deal.
+
+Player lin has 9 cards before deal.
+=====Before player's deal=======
+6 7 5 2 10 A Q
+================================
+lin ==> card K
+=====After player's deal=======
+6 7 5 2 10 A Q K
+================================
+Player lin has 8 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+6 7 5 2 10 A Q K
+================================
+liz ==> card 3
+=====After player's deal=======
+6 7 5 2 10 A Q K 3
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 22 cards before deal.
+=====Before player's deal=======
+6 7 5 2 10 A Q K 3
+================================
+wu ==> card 7
+=====After player's deal=======
+6
+================================
+Player wu has 30 cards after deal.
+
+Player lin has 8 cards before deal.
+=====Before player's deal=======
+6
+================================
+lin ==> card 2
+=====After player's deal=======
+6 2
+================================
+Player lin has 7 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+6 2
+================================
+liz ==> card K
+=====After player's deal=======
+6 2 K
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+6 2 K
+================================
+wu ==> card K
+=====After player's deal=======
+6 2
+================================
+Player wu has 31 cards after deal.
+
+Player lin has 7 cards before deal.
+=====Before player's deal=======
+6 2
+================================
+lin ==> card A
+=====After player's deal=======
+6 2 A
+================================
+Player lin has 6 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+6 2 A
+================================
+liz ==> card 8
+=====After player's deal=======
+6 2 A 8
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+6 2 A 8
+================================
+wu ==> card 7
+=====After player's deal=======
+6 2 A 8 7
+================================
+Player wu has 30 cards after deal.
+
+Player lin has 6 cards before deal.
+=====Before player's deal=======
+6 2 A 8 7
+================================
+lin ==> card 4
+=====After player's deal=======
+6 2 A 8 7 4
+================================
+Player lin has 5 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+6 2 A 8 7 4
+================================
+liz ==> card 4
+=====After player's deal=======
+6 2 A 8 7
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+6 2 A 8 7
+================================
+wu ==> card 6
+=====After player's deal=======
+
+================================
+Player wu has 35 cards after deal.
+
+Player lin has 5 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 9
+=====After player's deal=======
+9
+================================
+Player lin has 4 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+9
+================================
+liz ==> card 9
+=====After player's deal=======
+
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 7
+=====After player's deal=======
+7
+================================
+Player wu has 34 cards after deal.
+
+Player lin has 4 cards before deal.
+=====Before player's deal=======
+7
+================================
+lin ==> card 4
+=====After player's deal=======
+7 4
+================================
+Player lin has 3 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+7 4
+================================
+liz ==> card K
+=====After player's deal=======
+7 4 K
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+7 4 K
+================================
+wu ==> card Q
+=====After player's deal=======
+7 4 K Q
+================================
+Player wu has 33 cards after deal.
+
+Player lin has 3 cards before deal.
+=====Before player's deal=======
+7 4 K Q
+================================
+lin ==> card 5
+=====After player's deal=======
+7 4 K Q 5
+================================
+Player lin has 2 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+7 4 K Q 5
+================================
+liz ==> card 2
+=====After player's deal=======
+7 4 K Q 5 2
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+7 4 K Q 5 2
+================================
+wu ==> card 6
+=====After player's deal=======
+7 4 K Q 5 2 6
+================================
+Player wu has 32 cards after deal.
+
+Player lin has 2 cards before deal.
+=====Before player's deal=======
+7 4 K Q 5 2 6
+================================
+lin ==> card 8
+=====After player's deal=======
+7 4 K Q 5 2 6 8
+================================
+Player lin has 1 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+7 4 K Q 5 2 6 8
+================================
+liz ==> card Q
+=====After player's deal=======
+7 4 K
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+7 4 K
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 35 cards after deal.
+
+Player lin has 1 cards before deal.
+=====Before player's deal=======
+
+================================
+lin ==> card 5
+=====After player's deal=======
+5
+================================
+Player lin has 0 cards after deal.
+Player lin has no cards, out!
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+5
+================================
+liz ==> card 5
+=====After player's deal=======
+
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 8
+=====After player's deal=======
+8
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+8
+================================
+liz ==> card 10
+=====After player's deal=======
+8 10
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+8 10
+================================
+wu ==> card 3
+=====After player's deal=======
+8 10 3
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+8 10 3
+================================
+liz ==> card 2
+=====After player's deal=======
+8 10 3 2
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+8 10 3 2
+================================
+wu ==> card 8
+=====After player's deal=======
+
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 10
+=====After player's deal=======
+10
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+10
+================================
+wu ==> card 4
+=====After player's deal=======
+10 4
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+10 4
+================================
+liz ==> card Q
+=====After player's deal=======
+10 4 Q
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+10 4 Q
+================================
+wu ==> card 3
+=====After player's deal=======
+10 4 Q 3
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+10 4 Q 3
+================================
+liz ==> card 10
+=====After player's deal=======
+
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card J
+=====After player's deal=======
+J
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+J
+================================
+liz ==> card 4
+=====After player's deal=======
+J 4
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+J 4
+================================
+wu ==> card A
+=====After player's deal=======
+J 4 A
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+J 4 A
+================================
+liz ==> card 4
+=====After player's deal=======
+J
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+J
+================================
+wu ==> card 6
+=====After player's deal=======
+J 6
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+J 6
+================================
+liz ==> card 9
+=====After player's deal=======
+J 6 9
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+J 6 9
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 9
+=====After player's deal=======
+9
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+9
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card Q
+=====After player's deal=======
+Q
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wu ==> card 3
+=====After player's deal=======
+Q 3
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+Q 3
+================================
+liz ==> card 8
+=====After player's deal=======
+Q 3 8
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+Q 3 8
+================================
+wu ==> card A
+=====After player's deal=======
+Q 3 8 A
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+Q 3 8 A
+================================
+liz ==> card 6
+=====After player's deal=======
+Q 3 8 A 6
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+Q 3 8 A 6
+================================
+wu ==> card 9
+=====After player's deal=======
+Q 3 8 A 6 9
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+Q 3 8 A 6 9
+================================
+liz ==> card 2
+=====After player's deal=======
+Q 3 8 A 6 9 2
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+Q 3 8 A 6 9 2
+================================
+wu ==> card 9
+=====After player's deal=======
+Q 3 8 A 6
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+Q 3 8 A 6
+================================
+liz ==> card 5
+=====After player's deal=======
+Q 3 8 A 6 5
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+Q 3 8 A 6 5
+================================
+wu ==> card 7
+=====After player's deal=======
+Q 3 8 A 6 5 7
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+Q 3 8 A 6 5 7
+================================
+liz ==> card Q
+=====After player's deal=======
+
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 3
+=====After player's deal=======
+3
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+3
+================================
+liz ==> card 5
+=====After player's deal=======
+3 5
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+3 5
+================================
+wu ==> card K
+=====After player's deal=======
+3 5 K
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+3 5 K
+================================
+liz ==> card 5
+=====After player's deal=======
+3
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card Q
+=====After player's deal=======
+3 Q
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+3 Q
+================================
+liz ==> card 10
+=====After player's deal=======
+3 Q 10
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+3 Q 10
+================================
+wu ==> card A
+=====After player's deal=======
+3 Q 10 A
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+3 Q 10 A
+================================
+liz ==> card 3
+=====After player's deal=======
+
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 10
+=====After player's deal=======
+10
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+10
+================================
+liz ==> card Q
+=====After player's deal=======
+10 Q
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+10 Q
+================================
+wu ==> card 2
+=====After player's deal=======
+10 Q 2
+================================
+Player wu has 28 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+10 Q 2
+================================
+liz ==> card 4
+=====After player's deal=======
+10 Q 2 4
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 28 cards before deal.
+=====Before player's deal=======
+10 Q 2 4
+================================
+wu ==> card 5
+=====After player's deal=======
+10 Q 2 4 5
+================================
+Player wu has 27 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+10 Q 2 4 5
+================================
+liz ==> card 10
+=====After player's deal=======
+
+================================
+Player liz has 25 cards after deal.
+
+Player wu has 27 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 7
+=====After player's deal=======
+7
+================================
+Player wu has 26 cards after deal.
+
+Player liz has 25 cards before deal.
+=====Before player's deal=======
+7
+================================
+liz ==> card 4
+=====After player's deal=======
+7 4
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 26 cards before deal.
+=====Before player's deal=======
+7 4
+================================
+wu ==> card K
+=====After player's deal=======
+7 4 K
+================================
+Player wu has 25 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+7 4 K
+================================
+liz ==> card A
+=====After player's deal=======
+7 4 K A
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 25 cards before deal.
+=====Before player's deal=======
+7 4 K A
+================================
+wu ==> card K
+=====After player's deal=======
+7 4
+================================
+Player wu has 27 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+7 4
+================================
+liz ==> card 4
+=====After player's deal=======
+7
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 27 cards before deal.
+=====Before player's deal=======
+7
+================================
+wu ==> card 6
+=====After player's deal=======
+7 6
+================================
+Player wu has 26 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+7 6
+================================
+liz ==> card Q
+=====After player's deal=======
+7 6 Q
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 26 cards before deal.
+=====Before player's deal=======
+7 6 Q
+================================
+wu ==> card 7
+=====After player's deal=======
+
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 7
+=====After player's deal=======
+7
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+7
+================================
+wu ==> card 8
+=====After player's deal=======
+7 8
+================================
+Player wu has 28 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+7 8
+================================
+liz ==> card 5
+=====After player's deal=======
+7 8 5
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 28 cards before deal.
+=====Before player's deal=======
+7 8 5
+================================
+wu ==> card A
+=====After player's deal=======
+7 8 5 A
+================================
+Player wu has 27 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+7 8 5 A
+================================
+liz ==> card 6
+=====After player's deal=======
+7 8 5 A 6
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 27 cards before deal.
+=====Before player's deal=======
+7 8 5 A 6
+================================
+wu ==> card 2
+=====After player's deal=======
+7 8 5 A 6 2
+================================
+Player wu has 26 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+7 8 5 A 6 2
+================================
+liz ==> card A
+=====After player's deal=======
+7 8 5
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 26 cards before deal.
+=====Before player's deal=======
+7 8 5
+================================
+wu ==> card 6
+=====After player's deal=======
+7 8 5 6
+================================
+Player wu has 25 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+7 8 5 6
+================================
+liz ==> card 8
+=====After player's deal=======
+7
+================================
+Player liz has 26 cards after deal.
+
+Player wu has 25 cards before deal.
+=====Before player's deal=======
+7
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 26 cards after deal.
+
+Player liz has 26 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 3
+=====After player's deal=======
+3
+================================
+Player liz has 25 cards after deal.
+
+Player wu has 26 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card K
+=====After player's deal=======
+3 K
+================================
+Player wu has 25 cards after deal.
+
+Player liz has 25 cards before deal.
+=====Before player's deal=======
+3 K
+================================
+liz ==> card Q
+=====After player's deal=======
+3 K Q
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 25 cards before deal.
+=====Before player's deal=======
+3 K Q
+================================
+wu ==> card 4
+=====After player's deal=======
+3 K Q 4
+================================
+Player wu has 24 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+3 K Q 4
+================================
+liz ==> card 5
+=====After player's deal=======
+3 K Q 4 5
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 24 cards before deal.
+=====Before player's deal=======
+3 K Q 4 5
+================================
+wu ==> card 7
+=====After player's deal=======
+3 K Q 4 5 7
+================================
+Player wu has 23 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+3 K Q 4 5 7
+================================
+liz ==> card K
+=====After player's deal=======
+3
+================================
+Player liz has 28 cards after deal.
+
+Player wu has 23 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card 8
+=====After player's deal=======
+3 8
+================================
+Player wu has 22 cards after deal.
+
+Player liz has 28 cards before deal.
+=====Before player's deal=======
+3 8
+================================
+liz ==> card 5
+=====After player's deal=======
+3 8 5
+================================
+Player liz has 27 cards after deal.
+
+Player wu has 22 cards before deal.
+=====Before player's deal=======
+3 8 5
+================================
+wu ==> card 2
+=====After player's deal=======
+3 8 5 2
+================================
+Player wu has 21 cards after deal.
+
+Player liz has 27 cards before deal.
+=====Before player's deal=======
+3 8 5 2
+================================
+liz ==> card 3
+=====After player's deal=======
+
+================================
+Player liz has 31 cards after deal.
+
+Player wu has 21 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 3
+=====After player's deal=======
+3
+================================
+Player wu has 20 cards after deal.
+
+Player liz has 31 cards before deal.
+=====Before player's deal=======
+3
+================================
+liz ==> card A
+=====After player's deal=======
+3 A
+================================
+Player liz has 30 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+3 A
+================================
+wu ==> card 10
+=====After player's deal=======
+3 A 10
+================================
+Player wu has 19 cards after deal.
+
+Player liz has 30 cards before deal.
+=====Before player's deal=======
+3 A 10
+================================
+liz ==> card 10
+=====After player's deal=======
+3 A
+================================
+Player liz has 31 cards after deal.
+
+Player wu has 19 cards before deal.
+=====Before player's deal=======
+3 A
+================================
+wu ==> card 8
+=====After player's deal=======
+3 A 8
+================================
+Player wu has 18 cards after deal.
+
+Player liz has 31 cards before deal.
+=====Before player's deal=======
+3 A 8
+================================
+liz ==> card Q
+=====After player's deal=======
+3 A 8 Q
+================================
+Player liz has 30 cards after deal.
+
+Player wu has 18 cards before deal.
+=====Before player's deal=======
+3 A 8 Q
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 22 cards after deal.
+
+Player liz has 30 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 3
+=====After player's deal=======
+3
+================================
+Player liz has 29 cards after deal.
+
+Player wu has 22 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card 9
+=====After player's deal=======
+3 9
+================================
+Player wu has 21 cards after deal.
+
+Player liz has 29 cards before deal.
+=====Before player's deal=======
+3 9
+================================
+liz ==> card 10
+=====After player's deal=======
+3 9 10
+================================
+Player liz has 28 cards after deal.
+
+Player wu has 21 cards before deal.
+=====Before player's deal=======
+3 9 10
+================================
+wu ==> card 6
+=====After player's deal=======
+3 9 10 6
+================================
+Player wu has 20 cards after deal.
+
+Player liz has 28 cards before deal.
+=====Before player's deal=======
+3 9 10 6
+================================
+liz ==> card 5
+=====After player's deal=======
+3 9 10 6 5
+================================
+Player liz has 27 cards after deal.
+
+Player wu has 20 cards before deal.
+=====Before player's deal=======
+3 9 10 6 5
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 25 cards after deal.
+
+Player liz has 27 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 26 cards after deal.
+
+Player wu has 25 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 26 cards after deal.
+
+Player liz has 26 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 2
+=====After player's deal=======
+2
+================================
+Player liz has 25 cards after deal.
+
+Player wu has 26 cards before deal.
+=====Before player's deal=======
+2
+================================
+wu ==> card 9
+=====After player's deal=======
+2 9
+================================
+Player wu has 25 cards after deal.
+
+Player liz has 25 cards before deal.
+=====Before player's deal=======
+2 9
+================================
+liz ==> card Q
+=====After player's deal=======
+2 9 Q
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 25 cards before deal.
+=====Before player's deal=======
+2 9 Q
+================================
+wu ==> card 9
+=====After player's deal=======
+2
+================================
+Player wu has 27 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+2
+================================
+liz ==> card 10
+=====After player's deal=======
+2 10
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 27 cards before deal.
+=====Before player's deal=======
+2 10
+================================
+wu ==> card 2
+=====After player's deal=======
+
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card 9
+=====After player's deal=======
+4 9
+================================
+Player wu has 28 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+4 9
+================================
+liz ==> card 4
+=====After player's deal=======
+
+================================
+Player liz has 24 cards after deal.
+
+Player wu has 28 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card K
+=====After player's deal=======
+K
+================================
+Player wu has 27 cards after deal.
+
+Player liz has 24 cards before deal.
+=====Before player's deal=======
+K
+================================
+liz ==> card A
+=====After player's deal=======
+K A
+================================
+Player liz has 23 cards after deal.
+
+Player wu has 27 cards before deal.
+=====Before player's deal=======
+K A
+================================
+wu ==> card A
+=====After player's deal=======
+K
+================================
+Player wu has 28 cards after deal.
+
+Player liz has 23 cards before deal.
+=====Before player's deal=======
+K
+================================
+liz ==> card 2
+=====After player's deal=======
+K 2
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 28 cards before deal.
+=====Before player's deal=======
+K 2
+================================
+wu ==> card K
+=====After player's deal=======
+
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 6
+=====After player's deal=======
+6
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+6
+================================
+wu ==> card 7
+=====After player's deal=======
+6 7
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+6 7
+================================
+liz ==> card A
+=====After player's deal=======
+6 7 A
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+6 7 A
+================================
+wu ==> card Q
+=====After player's deal=======
+6 7 A Q
+================================
+Player wu has 28 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+6 7 A Q
+================================
+liz ==> card 8
+=====After player's deal=======
+6 7 A Q 8
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 28 cards before deal.
+=====Before player's deal=======
+6 7 A Q 8
+================================
+wu ==> card 6
+=====After player's deal=======
+
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 6
+=====After player's deal=======
+6
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+6
+================================
+wu ==> card 7
+=====After player's deal=======
+6 7
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+6 7
+================================
+liz ==> card 5
+=====After player's deal=======
+6 7 5
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+6 7 5
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 8
+=====After player's deal=======
+8
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+8
+================================
+wu ==> card 7
+=====After player's deal=======
+8 7
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+8 7
+================================
+liz ==> card K
+=====After player's deal=======
+8 7 K
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+8 7 K
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 7
+=====After player's deal=======
+7
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+7
+================================
+wu ==> card Q
+=====After player's deal=======
+7 Q
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+7 Q
+================================
+liz ==> card 5
+=====After player's deal=======
+7 Q 5
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+7 Q 5
+================================
+wu ==> card 8
+=====After player's deal=======
+7 Q 5 8
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+7 Q 5 8
+================================
+liz ==> card 4
+=====After player's deal=======
+7 Q 5 8 4
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+7 Q 5 8 4
+================================
+wu ==> card A
+=====After player's deal=======
+7 Q 5 8 4 A
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+7 Q 5 8 4 A
+================================
+liz ==> card Q
+=====After player's deal=======
+7
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+7
+================================
+wu ==> card 3
+=====After player's deal=======
+7 3
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+7 3
+================================
+liz ==> card K
+=====After player's deal=======
+7 3 K
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+7 3 K
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 3
+=====After player's deal=======
+3
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card 5
+=====After player's deal=======
+3 5
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+3 5
+================================
+liz ==> card 2
+=====After player's deal=======
+3 5 2
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+3 5 2
+================================
+wu ==> card 6
+=====After player's deal=======
+3 5 2 6
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+3 5 2 6
+================================
+liz ==> card 5
+=====After player's deal=======
+3
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card 10
+=====After player's deal=======
+3 10
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+3 10
+================================
+liz ==> card 8
+=====After player's deal=======
+3 10 8
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+3 10 8
+================================
+wu ==> card 9
+=====After player's deal=======
+3 10 8 9
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+3 10 8 9
+================================
+liz ==> card 3
+=====After player's deal=======
+
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 3
+=====After player's deal=======
+3
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+3
+================================
+liz ==> card 10
+=====After player's deal=======
+3 10
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+3 10
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 10
+=====After player's deal=======
+10
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+10
+================================
+wu ==> card 4
+=====After player's deal=======
+10 4
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+10 4
+================================
+liz ==> card 4
+=====After player's deal=======
+10
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+10
+================================
+wu ==> card 9
+=====After player's deal=======
+10 9
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+10 9
+================================
+liz ==> card 9
+=====After player's deal=======
+10
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+10
+================================
+wu ==> card Q
+=====After player's deal=======
+10 Q
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+10 Q
+================================
+liz ==> card 4
+=====After player's deal=======
+10 Q 4
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+10 Q 4
+================================
+wu ==> card 9
+=====After player's deal=======
+10 Q 4 9
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+10 Q 4 9
+================================
+liz ==> card Q
+=====After player's deal=======
+10
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+10
+================================
+wu ==> card 2
+=====After player's deal=======
+10 2
+================================
+Player wu has 28 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+10 2
+================================
+liz ==> card A
+=====After player's deal=======
+10 2 A
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 28 cards before deal.
+=====Before player's deal=======
+10 2 A
+================================
+wu ==> card 10
+=====After player's deal=======
+
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card 2
+=====After player's deal=======
+4 2
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+4 2
+================================
+liz ==> card 8
+=====After player's deal=======
+4 2 8
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+4 2 8
+================================
+wu ==> card A
+=====After player's deal=======
+4 2 8 A
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+4 2 8 A
+================================
+liz ==> card 5
+=====After player's deal=======
+4 2 8 A 5
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+4 2 8 A 5
+================================
+wu ==> card A
+=====After player's deal=======
+4 2 8
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+4 2 8
+================================
+liz ==> card Q
+=====After player's deal=======
+4 2 8 Q
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+4 2 8 Q
+================================
+wu ==> card K
+=====After player's deal=======
+4 2 8 Q K
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+4 2 8 Q K
+================================
+liz ==> card 5
+=====After player's deal=======
+4 2 8 Q K 5
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+4 2 8 Q K 5
+================================
+wu ==> card 2
+=====After player's deal=======
+4
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+4
+================================
+liz ==> card 6
+=====After player's deal=======
+4 6
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+4 6
+================================
+wu ==> card K
+=====After player's deal=======
+4 6 K
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+4 6 K
+================================
+liz ==> card 2
+=====After player's deal=======
+4 6 K 2
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+4 6 K 2
+================================
+wu ==> card 6
+=====After player's deal=======
+4
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+4
+================================
+liz ==> card 5
+=====After player's deal=======
+4 5
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+4 5
+================================
+wu ==> card 8
+=====After player's deal=======
+4 5 8
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+4 5 8
+================================
+liz ==> card 3
+=====After player's deal=======
+4 5 8 3
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+4 5 8 3
+================================
+wu ==> card Q
+=====After player's deal=======
+4 5 8 3 Q
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+4 5 8 3 Q
+================================
+liz ==> card 9
+=====After player's deal=======
+4 5 8 3 Q 9
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+4 5 8 3 Q 9
+================================
+wu ==> card A
+=====After player's deal=======
+4 5 8 3 Q 9 A
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+4 5 8 3 Q 9 A
+================================
+liz ==> card 8
+=====After player's deal=======
+4 5
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+4 5
+================================
+wu ==> card 7
+=====After player's deal=======
+4 5 7
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+4 5 7
+================================
+liz ==> card 10
+=====After player's deal=======
+4 5 7 10
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+4 5 7 10
+================================
+wu ==> card 6
+=====After player's deal=======
+4 5 7 10 6
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+4 5 7 10 6
+================================
+liz ==> card 3
+=====After player's deal=======
+4 5 7 10 6 3
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+4 5 7 10 6 3
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 38 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 38 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card 5
+=====After player's deal=======
+4 5
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+4 5
+================================
+liz ==> card 4
+=====After player's deal=======
+
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 7
+=====After player's deal=======
+7
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+7
+================================
+liz ==> card 9
+=====After player's deal=======
+7 9
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+7 9
+================================
+wu ==> card 6
+=====After player's deal=======
+7 9 6
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+7 9 6
+================================
+liz ==> card 9
+=====After player's deal=======
+7
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+7
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card Q
+=====After player's deal=======
+Q
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wu ==> card K
+=====After player's deal=======
+Q K
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+Q K
+================================
+liz ==> card 9
+=====After player's deal=======
+Q K 9
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+Q K 9
+================================
+wu ==> card 7
+=====After player's deal=======
+Q K 9 7
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+Q K 9 7
+================================
+liz ==> card 4
+=====After player's deal=======
+Q K 9 7 4
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+Q K 9 7 4
+================================
+wu ==> card 8
+=====After player's deal=======
+Q K 9 7 4 8
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+Q K 9 7 4 8
+================================
+liz ==> card Q
+=====After player's deal=======
+
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card J
+=====After player's deal=======
+J
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+J
+================================
+liz ==> card 8
+=====After player's deal=======
+J 8
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+J 8
+================================
+wu ==> card K
+=====After player's deal=======
+J 8 K
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+J 8 K
+================================
+liz ==> card A
+=====After player's deal=======
+J 8 K A
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+J 8 K A
+================================
+wu ==> card 3
+=====After player's deal=======
+J 8 K A 3
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+J 8 K A 3
+================================
+liz ==> card 9
+=====After player's deal=======
+J 8 K A 3 9
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+J 8 K A 3 9
+================================
+wu ==> card 7
+=====After player's deal=======
+J 8 K A 3 9 7
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+J 8 K A 3 9 7
+================================
+liz ==> card Q
+=====After player's deal=======
+J 8 K A 3 9 7 Q
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+J 8 K A 3 9 7 Q
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 3
+=====After player's deal=======
+3
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card 10
+=====After player's deal=======
+3 10
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+3 10
+================================
+liz ==> card 8
+=====After player's deal=======
+3 10 8
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+3 10 8
+================================
+wu ==> card 3
+=====After player's deal=======
+
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card 10
+=====After player's deal=======
+4 10
+================================
+Player wu has 38 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+4 10
+================================
+liz ==> card 5
+=====After player's deal=======
+4 10 5
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 38 cards before deal.
+=====Before player's deal=======
+4 10 5
+================================
+wu ==> card A
+=====After player's deal=======
+4 10 5 A
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+4 10 5 A
+================================
+liz ==> card 4
+=====After player's deal=======
+
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 2
+=====After player's deal=======
+2
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+2
+================================
+liz ==> card 9
+=====After player's deal=======
+2 9
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+2 9
+================================
+wu ==> card 10
+=====After player's deal=======
+2 9 10
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+2 9 10
+================================
+liz ==> card 6
+=====After player's deal=======
+2 9 10 6
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+2 9 10 6
+================================
+wu ==> card A
+=====After player's deal=======
+2 9 10 6 A
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+2 9 10 6 A
+================================
+liz ==> card 9
+=====After player's deal=======
+2
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+2
+================================
+wu ==> card 5
+=====After player's deal=======
+2 5
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+2 5
+================================
+liz ==> card Q
+=====After player's deal=======
+2 5 Q
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+2 5 Q
+================================
+wu ==> card A
+=====After player's deal=======
+2 5 Q A
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+2 5 Q A
+================================
+liz ==> card 8
+=====After player's deal=======
+2 5 Q A 8
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+2 5 Q A 8
+================================
+wu ==> card 2
+=====After player's deal=======
+
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card 5
+=====After player's deal=======
+4 5
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+4 5
+================================
+liz ==> card 7
+=====After player's deal=======
+4 5 7
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+4 5 7
+================================
+wu ==> card K
+=====After player's deal=======
+4 5 7 K
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+4 5 7 K
+================================
+liz ==> card 9
+=====After player's deal=======
+4 5 7 K 9
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+4 5 7 K 9
+================================
+wu ==> card Q
+=====After player's deal=======
+4 5 7 K 9 Q
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+4 5 7 K 9 Q
+================================
+liz ==> card K
+=====After player's deal=======
+4 5 7
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+4 5 7
+================================
+wu ==> card 8
+=====After player's deal=======
+4 5 7 8
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+4 5 7 8
+================================
+liz ==> card Q
+=====After player's deal=======
+4 5 7 8 Q
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+4 5 7 8 Q
+================================
+wu ==> card 2
+=====After player's deal=======
+4 5 7 8 Q 2
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+4 5 7 8 Q 2
+================================
+liz ==> card 4
+=====After player's deal=======
+
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 6
+=====After player's deal=======
+6
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+6
+================================
+liz ==> card A
+=====After player's deal=======
+6 A
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+6 A
+================================
+wu ==> card 2
+=====After player's deal=======
+6 A 2
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+6 A 2
+================================
+liz ==> card 5
+=====After player's deal=======
+6 A 2 5
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+6 A 2 5
+================================
+wu ==> card K
+=====After player's deal=======
+6 A 2 5 K
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+6 A 2 5 K
+================================
+liz ==> card 10
+=====After player's deal=======
+6 A 2 5 K 10
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+6 A 2 5 K 10
+================================
+wu ==> card 6
+=====After player's deal=======
+
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 9
+=====After player's deal=======
+9
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+9
+================================
+wu ==> card 3
+=====After player's deal=======
+9 3
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+9 3
+================================
+liz ==> card A
+=====After player's deal=======
+9 3 A
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+9 3 A
+================================
+wu ==> card 6
+=====After player's deal=======
+9 3 A 6
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+9 3 A 6
+================================
+liz ==> card 6
+=====After player's deal=======
+9 3 A
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+9 3 A
+================================
+wu ==> card 10
+=====After player's deal=======
+9 3 A 10
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+9 3 A 10
+================================
+liz ==> card 10
+=====After player's deal=======
+9 3 A
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+9 3 A
+================================
+wu ==> card 7
+=====After player's deal=======
+9 3 A 7
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+9 3 A 7
+================================
+liz ==> card 9
+=====After player's deal=======
+
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 5
+=====After player's deal=======
+5
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+5
+================================
+liz ==> card K
+=====After player's deal=======
+5 K
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+5 K
+================================
+wu ==> card 4
+=====After player's deal=======
+5 K 4
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+5 K 4
+================================
+liz ==> card Q
+=====After player's deal=======
+5 K 4 Q
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+5 K 4 Q
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 9
+=====After player's deal=======
+9
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+9
+================================
+wu ==> card 7
+=====After player's deal=======
+9 7
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+9 7
+================================
+liz ==> card K
+=====After player's deal=======
+9 7 K
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+9 7 K
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card Q
+=====After player's deal=======
+4 Q
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+4 Q
+================================
+liz ==> card 2
+=====After player's deal=======
+4 Q 2
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+4 Q 2
+================================
+wu ==> card 7
+=====After player's deal=======
+4 Q 2 7
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+4 Q 2 7
+================================
+liz ==> card Q
+=====After player's deal=======
+4
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card 9
+=====After player's deal=======
+4 9
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+4 9
+================================
+liz ==> card 8
+=====After player's deal=======
+4 9 8
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+4 9 8
+================================
+wu ==> card 3
+=====After player's deal=======
+4 9 8 3
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+4 9 8 3
+================================
+liz ==> card 7
+=====After player's deal=======
+4 9 8 3 7
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+4 9 8 3 7
+================================
+wu ==> card A
+=====After player's deal=======
+4 9 8 3 7 A
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+4 9 8 3 7 A
+================================
+liz ==> card 5
+=====After player's deal=======
+4 9 8 3 7 A 5
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+4 9 8 3 7 A 5
+================================
+wu ==> card K
+=====After player's deal=======
+4 9 8 3 7 A 5 K
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+4 9 8 3 7 A 5 K
+================================
+liz ==> card 4
+=====After player's deal=======
+
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 8
+=====After player's deal=======
+8
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+8
+================================
+liz ==> card 6
+=====After player's deal=======
+8 6
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+8 6
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 6
+=====After player's deal=======
+6
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+6
+================================
+wu ==> card 3
+=====After player's deal=======
+6 3
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+6 3
+================================
+liz ==> card 10
+=====After player's deal=======
+6 3 10
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+6 3 10
+================================
+wu ==> card 8
+=====After player's deal=======
+6 3 10 8
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+6 3 10 8
+================================
+liz ==> card 10
+=====After player's deal=======
+6 3
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+6 3
+================================
+wu ==> card 10
+=====After player's deal=======
+6 3 10
+================================
+Player wu has 28 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+6 3 10
+================================
+liz ==> card 9
+=====After player's deal=======
+6 3 10 9
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 28 cards before deal.
+=====Before player's deal=======
+6 3 10 9
+================================
+wu ==> card 3
+=====After player's deal=======
+6
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+6
+================================
+liz ==> card 7
+=====After player's deal=======
+6 7
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+6 7
+================================
+wu ==> card 2
+=====After player's deal=======
+6 7 2
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+6 7 2
+================================
+liz ==> card A
+=====After player's deal=======
+6 7 2 A
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+6 7 2 A
+================================
+wu ==> card 8
+=====After player's deal=======
+6 7 2 A 8
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+6 7 2 A 8
+================================
+liz ==> card 3
+=====After player's deal=======
+6 7 2 A 8 3
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+6 7 2 A 8 3
+================================
+wu ==> card A
+=====After player's deal=======
+6 7 2
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+6 7 2
+================================
+liz ==> card 9
+=====After player's deal=======
+6 7 2 9
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+6 7 2 9
+================================
+wu ==> card Q
+=====After player's deal=======
+6 7 2 9 Q
+================================
+Player wu has 31 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+6 7 2 9 Q
+================================
+liz ==> card Q
+=====After player's deal=======
+6 7 2 9
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 31 cards before deal.
+=====Before player's deal=======
+6 7 2 9
+================================
+wu ==> card 5
+=====After player's deal=======
+6 7 2 9 5
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+6 7 2 9 5
+================================
+liz ==> card 7
+=====After player's deal=======
+6
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+6
+================================
+wu ==> card 2
+=====After player's deal=======
+6 2
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+6 2
+================================
+liz ==> card 2
+=====After player's deal=======
+6
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+6
+================================
+wu ==> card 6
+=====After player's deal=======
+
+================================
+Player wu has 30 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card Q
+=====After player's deal=======
+Q
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 30 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wu ==> card 10
+=====After player's deal=======
+Q 10
+================================
+Player wu has 29 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+Q 10
+================================
+liz ==> card 4
+=====After player's deal=======
+Q 10 4
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 29 cards before deal.
+=====Before player's deal=======
+Q 10 4
+================================
+wu ==> card K
+=====After player's deal=======
+Q 10 4 K
+================================
+Player wu has 28 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+Q 10 4 K
+================================
+liz ==> card K
+=====After player's deal=======
+Q 10 4
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 28 cards before deal.
+=====Before player's deal=======
+Q 10 4
+================================
+wu ==> card 5
+=====After player's deal=======
+Q 10 4 5
+================================
+Player wu has 27 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+Q 10 4 5
+================================
+liz ==> card 5
+=====After player's deal=======
+Q 10 4
+================================
+Player liz has 22 cards after deal.
+
+Player wu has 27 cards before deal.
+=====Before player's deal=======
+Q 10 4
+================================
+wu ==> card 2
+=====After player's deal=======
+Q 10 4 2
+================================
+Player wu has 26 cards after deal.
+
+Player liz has 22 cards before deal.
+=====Before player's deal=======
+Q 10 4 2
+================================
+liz ==> card A
+=====After player's deal=======
+Q 10 4 2 A
+================================
+Player liz has 21 cards after deal.
+
+Player wu has 26 cards before deal.
+=====Before player's deal=======
+Q 10 4 2 A
+================================
+wu ==> card A
+=====After player's deal=======
+Q 10 4 2
+================================
+Player wu has 27 cards after deal.
+
+Player liz has 21 cards before deal.
+=====Before player's deal=======
+Q 10 4 2
+================================
+liz ==> card 7
+=====After player's deal=======
+Q 10 4 2 7
+================================
+Player liz has 20 cards after deal.
+
+Player wu has 27 cards before deal.
+=====Before player's deal=======
+Q 10 4 2 7
+================================
+wu ==> card 6
+=====After player's deal=======
+Q 10 4 2 7 6
+================================
+Player wu has 26 cards after deal.
+
+Player liz has 20 cards before deal.
+=====Before player's deal=======
+Q 10 4 2 7 6
+================================
+liz ==> card 3
+=====After player's deal=======
+Q 10 4 2 7 6 3
+================================
+Player liz has 19 cards after deal.
+
+Player wu has 26 cards before deal.
+=====Before player's deal=======
+Q 10 4 2 7 6 3
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 33 cards after deal.
+
+Player liz has 19 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 8
+=====After player's deal=======
+8
+================================
+Player liz has 18 cards after deal.
+
+Player wu has 33 cards before deal.
+=====Before player's deal=======
+8
+================================
+wu ==> card 4
+=====After player's deal=======
+8 4
+================================
+Player wu has 32 cards after deal.
+
+Player liz has 18 cards before deal.
+=====Before player's deal=======
+8 4
+================================
+liz ==> card 9
+=====After player's deal=======
+8 4 9
+================================
+Player liz has 17 cards after deal.
+
+Player wu has 32 cards before deal.
+=====Before player's deal=======
+8 4 9
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 17 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 16 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card Q
+=====After player's deal=======
+4 Q
+================================
+Player wu has 34 cards after deal.
+
+Player liz has 16 cards before deal.
+=====Before player's deal=======
+4 Q
+================================
+liz ==> card 10
+=====After player's deal=======
+4 Q 10
+================================
+Player liz has 15 cards after deal.
+
+Player wu has 34 cards before deal.
+=====Before player's deal=======
+4 Q 10
+================================
+wu ==> card 4
+=====After player's deal=======
+
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 15 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 8
+=====After player's deal=======
+8
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+8
+================================
+wu ==> card K
+=====After player's deal=======
+8 K
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+8 K
+================================
+liz ==> card 10
+=====After player's deal=======
+8 K 10
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+8 K 10
+================================
+wu ==> card 5
+=====After player's deal=======
+8 K 10 5
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+8 K 10 5
+================================
+liz ==> card Q
+=====After player's deal=======
+8 K 10 5 Q
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+8 K 10 5 Q
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card Q
+=====After player's deal=======
+Q
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+Q
+================================
+wu ==> card K
+=====After player's deal=======
+Q K
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+Q K
+================================
+liz ==> card 7
+=====After player's deal=======
+Q K 7
+================================
+Player liz has 10 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+Q K 7
+================================
+wu ==> card 7
+=====After player's deal=======
+Q K
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 10 cards before deal.
+=====Before player's deal=======
+Q K
+================================
+liz ==> card 5
+=====After player's deal=======
+Q K 5
+================================
+Player liz has 9 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+Q K 5
+================================
+wu ==> card 9
+=====After player's deal=======
+Q K 5 9
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 9 cards before deal.
+=====Before player's deal=======
+Q K 5 9
+================================
+liz ==> card 9
+=====After player's deal=======
+Q K 5
+================================
+Player liz has 10 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+Q K 5
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 42 cards after deal.
+
+Player liz has 10 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 2
+=====After player's deal=======
+2
+================================
+Player liz has 9 cards after deal.
+
+Player wu has 42 cards before deal.
+=====Before player's deal=======
+2
+================================
+wu ==> card 6
+=====After player's deal=======
+2 6
+================================
+Player wu has 41 cards after deal.
+
+Player liz has 9 cards before deal.
+=====Before player's deal=======
+2 6
+================================
+liz ==> card 7
+=====After player's deal=======
+2 6 7
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 41 cards before deal.
+=====Before player's deal=======
+2 6 7
+================================
+wu ==> card 8
+=====After player's deal=======
+2 6 7 8
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+2 6 7 8
+================================
+liz ==> card 2
+=====After player's deal=======
+
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 3
+=====After player's deal=======
+3
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+3
+================================
+liz ==> card 2
+=====After player's deal=======
+3 2
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+3 2
+================================
+wu ==> card 9
+=====After player's deal=======
+3 2 9
+================================
+Player wu has 38 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+3 2 9
+================================
+liz ==> card K
+=====After player's deal=======
+3 2 9 K
+================================
+Player liz has 10 cards after deal.
+
+Player wu has 38 cards before deal.
+=====Before player's deal=======
+3 2 9 K
+================================
+wu ==> card 10
+=====After player's deal=======
+3 2 9 K 10
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 10 cards before deal.
+=====Before player's deal=======
+3 2 9 K 10
+================================
+liz ==> card K
+=====After player's deal=======
+3 2 9
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+3 2 9
+================================
+wu ==> card 3
+=====After player's deal=======
+
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 5
+=====After player's deal=======
+5
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+5
+================================
+wu ==> card A
+=====After player's deal=======
+5 A
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+5 A
+================================
+liz ==> card 5
+=====After player's deal=======
+
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 3
+=====After player's deal=======
+3
+================================
+Player wu has 38 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+3
+================================
+liz ==> card 9
+=====After player's deal=======
+3 9
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 38 cards before deal.
+=====Before player's deal=======
+3 9
+================================
+wu ==> card 8
+=====After player's deal=======
+3 9 8
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+3 9 8
+================================
+liz ==> card 9
+=====After player's deal=======
+3
+================================
+Player liz has 14 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+3
+================================
+wu ==> card A
+=====After player's deal=======
+3 A
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 14 cards before deal.
+=====Before player's deal=======
+3 A
+================================
+liz ==> card 2
+=====After player's deal=======
+3 A 2
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+3 A 2
+================================
+wu ==> card 6
+=====After player's deal=======
+3 A 2 6
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+3 A 2 6
+================================
+liz ==> card 8
+=====After player's deal=======
+3 A 2 6 8
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+3 A 2 6 8
+================================
+wu ==> card 6
+=====After player's deal=======
+3 A 2
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+3 A 2
+================================
+liz ==> card 7
+=====After player's deal=======
+3 A 2 7
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+3 A 2 7
+================================
+wu ==> card A
+=====After player's deal=======
+3
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+3
+================================
+liz ==> card 6
+=====After player's deal=======
+3 6
+================================
+Player liz has 10 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+3 6
+================================
+wu ==> card A
+=====After player's deal=======
+3 6 A
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 10 cards before deal.
+=====Before player's deal=======
+3 6 A
+================================
+liz ==> card 2
+=====After player's deal=======
+3 6 A 2
+================================
+Player liz has 9 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+3 6 A 2
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 43 cards after deal.
+
+Player liz has 9 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card K
+=====After player's deal=======
+K
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 43 cards before deal.
+=====Before player's deal=======
+K
+================================
+wu ==> card 3
+=====After player's deal=======
+K 3
+================================
+Player wu has 42 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+K 3
+================================
+liz ==> card 10
+=====After player's deal=======
+K 3 10
+================================
+Player liz has 7 cards after deal.
+
+Player wu has 42 cards before deal.
+=====Before player's deal=======
+K 3 10
+================================
+wu ==> card 6
+=====After player's deal=======
+K 3 10 6
+================================
+Player wu has 41 cards after deal.
+
+Player liz has 7 cards before deal.
+=====Before player's deal=======
+K 3 10 6
+================================
+liz ==> card K
+=====After player's deal=======
+
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 41 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card 7
+=====After player's deal=======
+7
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+7
+================================
+liz ==> card 5
+=====After player's deal=======
+7 5
+================================
+Player liz has 10 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+7 5
+================================
+wu ==> card 2
+=====After player's deal=======
+7 5 2
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 10 cards before deal.
+=====Before player's deal=======
+7 5 2
+================================
+liz ==> card A
+=====After player's deal=======
+7 5 2 A
+================================
+Player liz has 9 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+7 5 2 A
+================================
+wu ==> card 4
+=====After player's deal=======
+7 5 2 A 4
+================================
+Player wu has 38 cards after deal.
+
+Player liz has 9 cards before deal.
+=====Before player's deal=======
+7 5 2 A 4
+================================
+liz ==> card 5
+=====After player's deal=======
+7
+================================
+Player liz has 13 cards after deal.
+
+Player wu has 38 cards before deal.
+=====Before player's deal=======
+7
+================================
+wu ==> card 10
+=====After player's deal=======
+7 10
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 13 cards before deal.
+=====Before player's deal=======
+7 10
+================================
+liz ==> card 9
+=====After player's deal=======
+7 10 9
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+7 10 9
+================================
+wu ==> card Q
+=====After player's deal=======
+7 10 9 Q
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+7 10 9 Q
+================================
+liz ==> card 8
+=====After player's deal=======
+7 10 9 Q 8
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+7 10 9 Q 8
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 41 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 9
+=====After player's deal=======
+9
+================================
+Player liz has 10 cards after deal.
+
+Player wu has 41 cards before deal.
+=====Before player's deal=======
+9
+================================
+wu ==> card 9
+=====After player's deal=======
+
+================================
+Player wu has 42 cards after deal.
+
+Player liz has 10 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card K
+=====After player's deal=======
+K
+================================
+Player liz has 9 cards after deal.
+
+Player wu has 42 cards before deal.
+=====Before player's deal=======
+K
+================================
+wu ==> card 4
+=====After player's deal=======
+K 4
+================================
+Player wu has 41 cards after deal.
+
+Player liz has 9 cards before deal.
+=====Before player's deal=======
+K 4
+================================
+liz ==> card 6
+=====After player's deal=======
+K 4 6
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 41 cards before deal.
+=====Before player's deal=======
+K 4 6
+================================
+wu ==> card 8
+=====After player's deal=======
+K 4 6 8
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+K 4 6 8
+================================
+liz ==> card 10
+=====After player's deal=======
+K 4 6 8 10
+================================
+Player liz has 7 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+K 4 6 8 10
+================================
+wu ==> card 4
+=====After player's deal=======
+K
+================================
+Player wu has 44 cards after deal.
+
+Player liz has 7 cards before deal.
+=====Before player's deal=======
+K
+================================
+liz ==> card 3
+=====After player's deal=======
+K 3
+================================
+Player liz has 6 cards after deal.
+
+Player wu has 44 cards before deal.
+=====Before player's deal=======
+K 3
+================================
+wu ==> card 10
+=====After player's deal=======
+K 3 10
+================================
+Player wu has 43 cards after deal.
+
+Player liz has 6 cards before deal.
+=====Before player's deal=======
+K 3 10
+================================
+liz ==> card K
+=====After player's deal=======
+
+================================
+Player liz has 9 cards after deal.
+
+Player wu has 43 cards before deal.
+=====Before player's deal=======
+
+================================
+wu ==> card Q
+=====After player's deal=======
+Q
+================================
+Player wu has 42 cards after deal.
+
+Player liz has 9 cards before deal.
+=====Before player's deal=======
+Q
+================================
+liz ==> card 5
+=====After player's deal=======
+Q 5
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 42 cards before deal.
+=====Before player's deal=======
+Q 5
+================================
+wu ==> card 4
+=====After player's deal=======
+Q 5 4
+================================
+Player wu has 41 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+Q 5 4
+================================
+liz ==> card 4
+=====After player's deal=======
+Q 5
+================================
+Player liz has 9 cards after deal.
+
+Player wu has 41 cards before deal.
+=====Before player's deal=======
+Q 5
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 43 cards after deal.
+
+Player liz has 9 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card A
+=====After player's deal=======
+A
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 43 cards before deal.
+=====Before player's deal=======
+A
+================================
+wu ==> card Q
+=====After player's deal=======
+A Q
+================================
+Player wu has 42 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+A Q
+================================
+liz ==> card 2
+=====After player's deal=======
+A Q 2
+================================
+Player liz has 7 cards after deal.
+
+Player wu has 42 cards before deal.
+=====Before player's deal=======
+A Q 2
+================================
+wu ==> card 5
+=====After player's deal=======
+A Q 2 5
+================================
+Player wu has 41 cards after deal.
+
+Player liz has 7 cards before deal.
+=====Before player's deal=======
+A Q 2 5
+================================
+liz ==> card 5
+=====After player's deal=======
+A Q 2
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 41 cards before deal.
+=====Before player's deal=======
+A Q 2
+================================
+wu ==> card 10
+=====After player's deal=======
+A Q 2 10
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+A Q 2 10
+================================
+liz ==> card K
+=====After player's deal=======
+A Q 2 10 K
+================================
+Player liz has 7 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+A Q 2 10 K
+================================
+wu ==> card K
+=====After player's deal=======
+A Q 2 10
+================================
+Player wu has 41 cards after deal.
+
+Player liz has 7 cards before deal.
+=====Before player's deal=======
+A Q 2 10
+================================
+liz ==> card 10
+=====After player's deal=======
+A Q 2
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 41 cards before deal.
+=====Before player's deal=======
+A Q 2
+================================
+wu ==> card 8
+=====After player's deal=======
+A Q 2 8
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+A Q 2 8
+================================
+liz ==> card 3
+=====After player's deal=======
+A Q 2 8 3
+================================
+Player liz has 7 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+A Q 2 8 3
+================================
+wu ==> card 7
+=====After player's deal=======
+A Q 2 8 3 7
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 7 cards before deal.
+=====Before player's deal=======
+A Q 2 8 3 7
+================================
+liz ==> card K
+=====After player's deal=======
+A Q 2 8 3 7 K
+================================
+Player liz has 6 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+A Q 2 8 3 7 K
+================================
+wu ==> card 7
+=====After player's deal=======
+A Q 2 8 3
+================================
+Player wu has 41 cards after deal.
+
+Player liz has 6 cards before deal.
+=====Before player's deal=======
+A Q 2 8 3
+================================
+liz ==> card 4
+=====After player's deal=======
+A Q 2 8 3 4
+================================
+Player liz has 5 cards after deal.
+
+Player wu has 41 cards before deal.
+=====Before player's deal=======
+A Q 2 8 3 4
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 47 cards after deal.
+
+Player liz has 5 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 4
+=====After player's deal=======
+4
+================================
+Player liz has 4 cards after deal.
+
+Player wu has 47 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card 5
+=====After player's deal=======
+4 5
+================================
+Player wu has 46 cards after deal.
+
+Player liz has 4 cards before deal.
+=====Before player's deal=======
+4 5
+================================
+liz ==> card 5
+=====After player's deal=======
+4
+================================
+Player liz has 5 cards after deal.
+
+Player wu has 46 cards before deal.
+=====Before player's deal=======
+4
+================================
+wu ==> card K
+=====After player's deal=======
+4 K
+================================
+Player wu has 45 cards after deal.
+
+Player liz has 5 cards before deal.
+=====Before player's deal=======
+4 K
+================================
+liz ==> card 5
+=====After player's deal=======
+4 K 5
+================================
+Player liz has 4 cards after deal.
+
+Player wu has 45 cards before deal.
+=====Before player's deal=======
+4 K 5
+================================
+wu ==> card Q
+=====After player's deal=======
+4 K 5 Q
+================================
+Player wu has 44 cards after deal.
+
+Player liz has 4 cards before deal.
+=====Before player's deal=======
+4 K 5 Q
+================================
+liz ==> card 10
+=====After player's deal=======
+4 K 5 Q 10
+================================
+Player liz has 3 cards after deal.
+
+Player wu has 44 cards before deal.
+=====Before player's deal=======
+4 K 5 Q 10
+================================
+wu ==> card 3
+=====After player's deal=======
+4 K 5 Q 10 3
+================================
+Player wu has 43 cards after deal.
+
+Player liz has 3 cards before deal.
+=====Before player's deal=======
+4 K 5 Q 10 3
+================================
+liz ==> card 10
+=====After player's deal=======
+4 K 5 Q
+================================
+Player liz has 5 cards after deal.
+
+Player wu has 43 cards before deal.
+=====Before player's deal=======
+4 K 5 Q
+================================
+wu ==> card 9
+=====After player's deal=======
+4 K 5 Q 9
+================================
+Player wu has 42 cards after deal.
+
+Player liz has 5 cards before deal.
+=====Before player's deal=======
+4 K 5 Q 9
+================================
+liz ==> card 5
+=====After player's deal=======
+4 K
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 42 cards before deal.
+=====Before player's deal=======
+4 K
+================================
+wu ==> card 2
+=====After player's deal=======
+4 K 2
+================================
+Player wu has 41 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+4 K 2
+================================
+liz ==> card 5
+=====After player's deal=======
+4 K 2 5
+================================
+Player liz has 7 cards after deal.
+
+Player wu has 41 cards before deal.
+=====Before player's deal=======
+4 K 2 5
+================================
+wu ==> card 3
+=====After player's deal=======
+4 K 2 5 3
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 7 cards before deal.
+=====Before player's deal=======
+4 K 2 5 3
+================================
+liz ==> card 10
+=====After player's deal=======
+4 K 2 5 3 10
+================================
+Player liz has 6 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+4 K 2 5 3 10
+================================
+wu ==> card 6
+=====After player's deal=======
+4 K 2 5 3 10 6
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 6 cards before deal.
+=====Before player's deal=======
+4 K 2 5 3 10 6
+================================
+liz ==> card 3
+=====After player's deal=======
+4 K 2 5
+================================
+Player liz has 9 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+4 K 2 5
+================================
+wu ==> card 8
+=====After player's deal=======
+4 K 2 5 8
+================================
+Player wu has 38 cards after deal.
+
+Player liz has 9 cards before deal.
+=====Before player's deal=======
+4 K 2 5 8
+================================
+liz ==> card 10
+=====After player's deal=======
+4 K 2 5 8 10
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 38 cards before deal.
+=====Before player's deal=======
+4 K 2 5 8 10
+================================
+wu ==> card 6
+=====After player's deal=======
+4 K 2 5 8 10 6
+================================
+Player wu has 37 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+4 K 2 5 8 10 6
+================================
+liz ==> card 5
+=====After player's deal=======
+4 K 2
+================================
+Player liz has 12 cards after deal.
+
+Player wu has 37 cards before deal.
+=====Before player's deal=======
+4 K 2
+================================
+wu ==> card A
+=====After player's deal=======
+4 K 2 A
+================================
+Player wu has 36 cards after deal.
+
+Player liz has 12 cards before deal.
+=====Before player's deal=======
+4 K 2 A
+================================
+liz ==> card 9
+=====After player's deal=======
+4 K 2 A 9
+================================
+Player liz has 11 cards after deal.
+
+Player wu has 36 cards before deal.
+=====Before player's deal=======
+4 K 2 A 9
+================================
+wu ==> card 7
+=====After player's deal=======
+4 K 2 A 9 7
+================================
+Player wu has 35 cards after deal.
+
+Player liz has 11 cards before deal.
+=====Before player's deal=======
+4 K 2 A 9 7
+================================
+liz ==> card Q
+=====After player's deal=======
+4 K 2 A 9 7 Q
+================================
+Player liz has 10 cards after deal.
+
+Player wu has 35 cards before deal.
+=====Before player's deal=======
+4 K 2 A 9 7 Q
+================================
+wu ==> card 2
+=====After player's deal=======
+4 K
+================================
+Player wu has 40 cards after deal.
+
+Player liz has 10 cards before deal.
+=====Before player's deal=======
+4 K
+================================
+liz ==> card 5
+=====After player's deal=======
+4 K 5
+================================
+Player liz has 9 cards after deal.
+
+Player wu has 40 cards before deal.
+=====Before player's deal=======
+4 K 5
+================================
+wu ==> card A
+=====After player's deal=======
+4 K 5 A
+================================
+Player wu has 39 cards after deal.
+
+Player liz has 9 cards before deal.
+=====Before player's deal=======
+4 K 5 A
+================================
+liz ==> card 3
+=====After player's deal=======
+4 K 5 A 3
+================================
+Player liz has 8 cards after deal.
+
+Player wu has 39 cards before deal.
+=====Before player's deal=======
+4 K 5 A 3
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 44 cards after deal.
+
+Player liz has 8 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 6
+=====After player's deal=======
+6
+================================
+Player liz has 7 cards after deal.
+
+Player wu has 44 cards before deal.
+=====Before player's deal=======
+6
+================================
+wu ==> card 2
+=====After player's deal=======
+6 2
+================================
+Player wu has 43 cards after deal.
+
+Player liz has 7 cards before deal.
+=====Before player's deal=======
+6 2
+================================
+liz ==> card 10
+=====After player's deal=======
+6 2 10
+================================
+Player liz has 6 cards after deal.
+
+Player wu has 43 cards before deal.
+=====Before player's deal=======
+6 2 10
+================================
+wu ==> card A
+=====After player's deal=======
+6 2 10 A
+================================
+Player wu has 42 cards after deal.
+
+Player liz has 6 cards before deal.
+=====Before player's deal=======
+6 2 10 A
+================================
+liz ==> card 3
+=====After player's deal=======
+6 2 10 A 3
+================================
+Player liz has 5 cards after deal.
+
+Player wu has 42 cards before deal.
+=====Before player's deal=======
+6 2 10 A 3
+================================
+wu ==> card 6
+=====After player's deal=======
+
+================================
+Player wu has 47 cards after deal.
+
+Player liz has 5 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 5
+=====After player's deal=======
+5
+================================
+Player liz has 4 cards after deal.
+
+Player wu has 47 cards before deal.
+=====Before player's deal=======
+5
+================================
+wu ==> card 3
+=====After player's deal=======
+5 3
+================================
+Player wu has 46 cards after deal.
+
+Player liz has 4 cards before deal.
+=====Before player's deal=======
+5 3
+================================
+liz ==> card 6
+=====After player's deal=======
+5 3 6
+================================
+Player liz has 3 cards after deal.
+
+Player wu has 46 cards before deal.
+=====Before player's deal=======
+5 3 6
+================================
+wu ==> card J
+=====After player's deal=======
+
+================================
+Player wu has 49 cards after deal.
+
+Player liz has 3 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 10
+=====After player's deal=======
+10
+================================
+Player liz has 2 cards after deal.
+
+Player wu has 49 cards before deal.
+=====Before player's deal=======
+10
+================================
+wu ==> card 8
+=====After player's deal=======
+10 8
+================================
+Player wu has 48 cards after deal.
+
+Player liz has 2 cards before deal.
+=====Before player's deal=======
+10 8
+================================
+liz ==> card 8
+=====After player's deal=======
+10
+================================
+Player liz has 3 cards after deal.
+
+Player wu has 48 cards before deal.
+=====Before player's deal=======
+10
+================================
+wu ==> card Q
+=====After player's deal=======
+10 Q
+================================
+Player wu has 47 cards after deal.
+
+Player liz has 3 cards before deal.
+=====Before player's deal=======
+10 Q
+================================
+liz ==> card 5
+=====After player's deal=======
+10 Q 5
+================================
+Player liz has 2 cards after deal.
+
+Player wu has 47 cards before deal.
+=====Before player's deal=======
+10 Q 5
+================================
+wu ==> card 9
+=====After player's deal=======
+10 Q 5 9
+================================
+Player wu has 46 cards after deal.
+
+Player liz has 2 cards before deal.
+=====Before player's deal=======
+10 Q 5 9
+================================
+liz ==> card 8
+=====After player's deal=======
+10 Q 5 9 8
+================================
+Player liz has 1 cards after deal.
+
+Player wu has 46 cards before deal.
+=====Before player's deal=======
+10 Q 5 9 8
+================================
+wu ==> card 10
+=====After player's deal=======
+
+================================
+Player wu has 51 cards after deal.
+
+Player liz has 1 cards before deal.
+=====Before player's deal=======
+
+================================
+liz ==> card 8
+=====After player's deal=======
+8
+================================
+Player liz has 0 cards after deal.
+Player liz has no cards, out!
+
+Winner is wu in game 310
