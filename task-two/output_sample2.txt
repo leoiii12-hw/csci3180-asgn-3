@@ -1,0 +1,84 @@
+==============Server Message================
+gpu-id  state  user  pid  tot_time  cur_time
+  0     idle
+  1     idle
+  2     idle
+============================================
+
+task(user: liz, pid: 0, time: 6) => gpu(id: 0)
+execute_one_time..
+==============Server Message================
+gpu-id  state  user  pid  tot_time  cur_time
+  0     busy   liz    0      6         1
+  1     idle
+  2     idle
+============================================
+
+task(user: lin, pid: 1, time: 4) => gpu(id: 1)
+task(user: lin, pid: 2, time: 5) => gpu(id: 2)
+execute_one_time..
+==============Server Message================
+gpu-id  state  user  pid  tot_time  cur_time
+  0     busy   liz    0      6         2
+  1     busy   lin    1      4         1
+  2     busy   lin    2      5         1
+============================================
+
+task(user: liz, pid: 3, time: 5) => waiting queue
+execute_one_time..
+==============Server Message================
+gpu-id  state  user  pid  tot_time  cur_time
+  0     busy   liz    0      6         3
+  1     busy   lin    1      4         2
+  2     busy   lin    2      5         2
+        wait   liz    3      5
+============================================
+
+user liz kill task(pid: 1) fail
+user liz kill task(user: liz, pid: 3, time: 5)
+execute_one_time..
+==============Server Message================
+gpu-id  state  user  pid  tot_time  cur_time
+  0     busy   liz    0      6         4
+  1     busy   lin    1      4         3
+  2     busy   lin    2      5         3
+============================================
+
+task(user: lin, pid: 4, time: 3) => waiting queue
+execute_one_time..
+task in gpu(id: 1) finished
+task(user: lin, pid: 4, time: 3) => gpu(id: 1)
+==============Server Message================
+gpu-id  state  user  pid  tot_time  cur_time
+  0     busy   liz    0      6         5
+  1     busy   lin    4      3         0
+  2     busy   lin    2      5         4
+============================================
+
+execute_one_time..
+task in gpu(id: 0) finished
+task in gpu(id: 2) finished
+==============Server Message================
+gpu-id  state  user  pid  tot_time  cur_time
+  0     idle
+  1     busy   lin    4      3         1
+  2     idle
+============================================
+
+execute_one_time..
+==============Server Message================
+gpu-id  state  user  pid  tot_time  cur_time
+  0     idle
+  1     busy   lin    4      3         2
+  2     idle
+============================================
+
+execute_one_time..
+task in gpu(id: 1) finished
+==============Server Message================
+gpu-id  state  user  pid  tot_time  cur_time
+  0     idle
+  1     idle
+  2     idle
+============================================
+
