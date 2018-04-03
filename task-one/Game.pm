@@ -32,7 +32,7 @@ sub set_players {
     return 1;
 }
 
-sub get_return {
+sub getReturn {
     my $self = $_[0];
     my $card = $_[1];
 
@@ -79,7 +79,7 @@ sub get_num_of_cards {
     return $num_of_cards;
 }
 
-sub show_cards {
+sub showCards {
     my $self = $_[0];
 
     my @cards = @{$self->{"cards"}};
@@ -96,7 +96,7 @@ sub start_game {
     # deck
     my $deck = MannerDeckStudent->new();
     $deck->shuffle();
-    my @card_groups = @{$deck->divide_cards($num_of_players)};
+    my @card_groups = @{$deck->AveDealCards($num_of_players)};
 
     # players
     my @players = ();
@@ -104,7 +104,7 @@ sub start_game {
         my @card_group = @{$card_groups[$i]};
 
         my $player = Player->new($player_names[$i]);
-        $player->get_cards(\@card_group);
+        $player->getCards(\@card_group);
 
         push(@players, $player);
     }
@@ -137,12 +137,12 @@ sub loop() {
 
         my $turn_player = $players[$turn_player_index];
         my $turn_player_name = $turn_player->get_name();
-        my $turn_player_num_of_cards = $turn_player->get_num_of_cards();
+        my $turn_player_num_of_cards = $turn_player->numCards();
 
         if ($turn_player_num_of_cards > 0) {
             $self->turn($turn_player_index);
 
-            $turn_player_num_of_cards = $turn_player->get_num_of_cards();
+            $turn_player_num_of_cards = $turn_player->numCards();
             if ($turn_player_num_of_cards == 0) {
                 print("Player $turn_player_name has no cards, out!\n");
             }
@@ -172,17 +172,17 @@ sub turn() {
 
     my $turn_player = $players[$turn];
     my $turn_player_name = $turn_player->get_name();
-    my $turn_player_num_of_cards = $turn_player->get_num_of_cards();
+    my $turn_player_num_of_cards = $turn_player->numCards();
 
     print("\nPlayer $turn_player_name has $turn_player_num_of_cards cards before deal.\n");
 
     print("=====Before player's deal=======\n");
 
-    $self->show_cards();
+    $self->showCards();
 
     print("================================\n");
 
-    my $dealed_card = $turn_player->deal_card();
+    my $dealed_card = $turn_player->dealCards();
     print("$turn_player_name ==> card $dealed_card\n");
 
     print("=====After player's deal=======\n");
@@ -190,14 +190,14 @@ sub turn() {
     push(@cards, $dealed_card);
     $self->{"cards"} = \@cards;
 
-    my @returned_cards = @{$self->get_return($dealed_card)};
-    $turn_player->get_cards(\@returned_cards);
+    my @returned_cards = @{$self->getReturn($dealed_card)};
+    $turn_player->getCards(\@returned_cards);
 
-    $self->show_cards();
+    $self->showCards();
 
     print("================================\n");
 
-    $turn_player_num_of_cards = $turn_player->get_num_of_cards();
+    $turn_player_num_of_cards = $turn_player->numCards();
     print("Player $turn_player_name has $turn_player_num_of_cards cards after deal.\n");
 }
 
@@ -212,7 +212,7 @@ sub check_win() {
     # Count living players
     for my $i (0 .. $#players) {
         my $player = $players[$i];
-        my $player_num_of_cards = $player->get_num_of_cards();
+        my $player_num_of_cards = $player->numCards();
 
         if ($player_num_of_cards == 0) {
             $num_of_living_players = $num_of_living_players - 1;
@@ -223,7 +223,7 @@ sub check_win() {
     if ($num_of_living_players == 1) {
         for my $i (0 .. $#players) {
             my $player = $players[$i];
-            my $player_num_of_cards = $player->get_num_of_cards();
+            my $player_num_of_cards = $player->numCards();
 
             if ($player_num_of_cards > 0) {
                 return $player;

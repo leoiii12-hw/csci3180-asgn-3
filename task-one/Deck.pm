@@ -23,7 +23,8 @@ sub shuffle {
     }
 }
 
-sub divide_cards {
+# divide_cards
+sub AveDealCards {
     my $self = shift @_;
     my $num = shift @_;
 

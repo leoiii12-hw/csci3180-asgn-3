@@ -21,7 +21,7 @@ sub get_name {
     return $name;
 }
 
-sub get_cards {
+sub getCards {
     my $self = $_[0];
     my @cards = @{$_[1]};
 
@@ -42,7 +42,7 @@ sub get_cards {
     }
 }
 
-sub deal_card {
+sub dealCards {
     my $self = shift @_;
 
     my @cards = @{$self->{"cards"}};
@@ -53,7 +53,7 @@ sub deal_card {
     return $card;
 }
 
-sub get_num_of_cards {
+sub numCards {
     my $self = shift @_;
 
     my @cards = @{$self->{"cards"}};
