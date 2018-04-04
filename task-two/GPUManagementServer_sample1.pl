@@ -2,6 +2,7 @@ use strict;
 use warnings;
 
 package GPUManagementServer;
+
 use Server;
 
 my $server = Server->new(2);
