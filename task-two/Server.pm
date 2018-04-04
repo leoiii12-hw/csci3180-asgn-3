@@ -1,3 +1,21 @@
+#/∗
+#∗ CSCI3180 Principles of Programming Languages
+#∗
+#∗ --- Declaration ---
+#∗
+#∗ I declare that the assignment here submitted is original except for source
+#∗ material explicitly acknowledged. I also acknowledge that I am aware of
+#∗ University policy and regulations on honesty in academic work, and of the
+#∗ disciplinary guidelines and procedures applicable to breaches of such policy
+#∗ and regulations, as contained in the website
+#∗ http://www.cuhk.edu.hk/policy/academichonesty/
+#∗
+#∗ Assignment 3
+#∗ Name : Choi Man Kin
+#∗ Student ID : 1155077469
+#∗ Email Addr : mkchoi6@cse.cuhk.edu.hk
+#∗/
+
 use strict;
 use warnings;
 
@@ -99,9 +117,9 @@ sub kill_task {
         if ($checking_task->pid() == $pid && $checking_task->name() eq $name) {
             splice(@waitq, $i, 1);
 
-            local $task = $checking_task;
-            print($self->task_info());
-            print("\n");
+local $task = $checking_task;
+print($self->task_info());
+print("\n");
 
             $self->{"waitq"} = \@waitq;
 
